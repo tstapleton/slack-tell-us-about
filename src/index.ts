@@ -8,6 +8,8 @@ interface Prompt {
 	prompt: string;
 }
 
+const hourToPost = 8;
+const minuteBuffer = 10;
 const FILE = resolve(process.cwd(), './data/prompts.json');
 const channelId = 'C01NDUL2788';
 const client = new WebClient(process.env.SLACK_BOT_TOKEN, {
@@ -30,13 +32,25 @@ const getPrompt = async (file: string, date: string) => {
 	return prompt ? `TUA${prompt.number}: ${prompt.prompt}` : '';
 };
 
+const shouldPost = (date: Date) => {
+	const hours = date.getUTCHours();
+	const minutes = date.getUTCMinutes();
+	return hours === hourToPost && minutes <= minuteBuffer;
+};
+
 (async () => {
 	try {
-		const today = formatDate(new Date());
+		const now = new Date();
+		const today = formatDate(now);
 		const prompt = await getPrompt(FILE, today);
 
 		if (!prompt) {
 			console.log(`${today} No prompt today.`);
+			return;
+		}
+
+		if (!shouldPost(now)) {
+			console.log(`${today} Not within prompt window.`);
 			return;
 		}
 
