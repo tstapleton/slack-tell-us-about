@@ -8,7 +8,7 @@ interface Prompt {
 	prompt: string;
 }
 
-const hourToPost = 8;
+const hourToPost = 7;
 const minuteBuffer = 10;
 const FILE = resolve(process.cwd(), './data/prompts.json');
 const channelId = 'C01NDUL2788';
