@@ -7,8 +7,9 @@ set -e
 # tracing prints each line of the script as it executes
 set -x
 
-printenv
-HOST="guarded-eyrie-86246.herokuapp.com"
+HEROKU_HOST="guarded-eyrie-86246.herokuapp.com"
+LOCALHOST="localhost:${PORT}"
+HOST=${HEROKU_HOST:=${LOCALHOST}}
 
 echo ""
 echo "Calling service at ${HOST} to post to Slack..."
