@@ -8,8 +8,9 @@ set -e
 set -x
 
 printenv
+HOST="guarded-eyrie-86246.herokuapp.com"
 
 echo ""
-echo "Calling service at localhost:${PORT} to post to Slack..."
-curl -X POST localhost:$PORT/post
+echo "Calling service at ${HOST} to post to Slack..."
+curl -X POST ${HOST}/post
 echo "Done"
