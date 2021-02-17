@@ -31,4 +31,4 @@ app.use(async (ctx, next) => {
 
 app.use(router.routes());
 
-app.listen(3001);
+app.listen(process.env.PORT || 3001);
