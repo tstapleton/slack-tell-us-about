@@ -7,4 +7,6 @@ set -e
 # tracing prints each line of the script as it executes
 set -x
 
+echo "Calling service to post to Slack..."
 curl -X POST localhost:3001/post
+echo "Done"
