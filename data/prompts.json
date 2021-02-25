@@ -1,22 +1,566 @@
 {
-	"2021-02-16": {
-		"number": 101,
-		"prompt": "This is the first prompt."
+	"2021-02-24": {
+		"number": 7,
+		"prompt": "This is the first test prompt."
 	},
-	"2021-02-17": {
-		"number": 102,
-		"prompt": "This is the second prompt."
+	"2021-02-25": {
+		"number": 42,
+		"prompt": "This is the second test prompt."
 	},
-	"2021-02-19": {
-		"number": 103,
-		"prompt": "This is the third prompt."
+	"2021-02-26": {
+		"number": 109,
+		"prompt": "Name one process that stops you from getting things done fast."
 	},
-	"2021-02-21": {
-		"number": 104,
-		"prompt": "This is the fourth prompt."
+	"2021-03-01": {
+		"number": 110,
+		"prompt": "What music do you play at work?"
 	},
-	"2021-02-22": {
-		"number": 105,
-		"prompt": "This is the fifth prompt."
+	"2021-03-03": {
+		"number": 111,
+		"prompt": "What do you do when you're bored?"
+	},
+	"2021-03-05": {
+		"number": 112,
+		"prompt": "What did you do this week that you're proud of?"
+	},
+	"2021-03-08": {
+		"number": 113,
+		"prompt": "What makes you feel super awkward?"
+	},
+	"2021-03-10": {
+		"number": 114,
+		"prompt": "What is the potential problem that worries you most right now?"
+	},
+	"2021-03-12": {
+		"number": 115,
+		"prompt": "How do you learn best? Do you have any tips / tricks to make picking up new things easier?"
+	},
+	"2021-03-15": {
+		"number": 116,
+		"prompt": "What have you said no to recently? What were the consequences? How did it make you feel?"
+	},
+	"2021-03-17": {
+		"number": 117,
+		"prompt": "What was the best work-related prank/gag you pulled?"
+	},
+	"2021-03-19": {
+		"number": 118,
+		"prompt": "What will you do this week that you didn't do last week?"
+	},
+	"2021-03-22": {
+		"number": 119,
+		"prompt": "What does your work schedule look like for the next 2 weeks? How much is dedicated to meetings? What sort of meetings? Why is that the right/wrong balance for now?"
+	},
+	"2021-03-24": {
+		"number": 120,
+		"prompt": "Share a picture you took that you really like."
+	},
+	"2021-03-26": {
+		"number": 121,
+		"prompt": "Cal Newport's philosophy (outlined in Deep Work), is all about finding ways and means to create great focus, to do what he calls Deep Work. If and when you're able to carve out time for the kind of laser focus, what does your Deep Work consist of? What specifically would you do during that time of focus?"
+	},
+	"2021-03-29": {
+		"number": 122,
+		"prompt": "You have a free pass to introduce an item, practice, or benefit to your team permanently. What is it?"
+	},
+	"2021-03-31": {
+		"number": 123,
+		"prompt": "How’s the weather where you are? Even better if you have a picture."
+	},
+	"2021-04-02": {
+		"number": 124,
+		"prompt": "What is one thing you are snobby about?"
+	},
+	"2021-04-05": {
+		"number": 125,
+		"prompt": "What are you good at?"
+	},
+	"2021-04-07": {
+		"number": 126,
+		"prompt": "What is your threshold for accepting LinkedIn connections, and why?"
+	},
+	"2021-04-09": {
+		"number": 127,
+		"prompt": "What skills would you like to develop right now?"
+	},
+	"2021-04-12": {
+		"number": 128,
+		"prompt": "What is one thing you're going to do differently this week versus last week?"
+	},
+	"2021-04-14": {
+		"number": 129,
+		"prompt": "What question do you wish people would ask you?"
+	},
+	"2021-04-16": {
+		"number": 130,
+		"prompt": "If you could have one superpower, what would it be?"
+	},
+	"2021-04-19": {
+		"number": 131,
+		"prompt": "Share a picture of what you are eating for lunch."
+	},
+	"2021-04-21": {
+		"number": 132,
+		"prompt": "If you could say one sentence to your pet and know they would understand it, what would you say?"
+	},
+	"2021-04-23": {
+		"number": 133,
+		"prompt": "Marie Kondo talks about getting rid of stuff that no longer sparks joy, but that doesn’t always need to be possessions. What no longer sparks joy for you? What’s stopping you from letting it go?"
+	},
+	"2021-04-26": {
+		"number": 134,
+		"prompt": "What skill have you learned recently that makes your life better?"
+	},
+	"2021-04-28": {
+		"number": 135,
+		"prompt": "What books do you re-read? Why?"
+	},
+	"2021-04-30": {
+		"number": 136,
+		"prompt": "What are your best calendaring tips? Do you block certain days for certain activities? Practice defensive calendaring? Calendar down to small increments of time? Use particular calendaring tools?"
+	},
+	"2021-05-03": {
+		"number": 137,
+		"prompt": "You are in an elevator and a stranger asks what you do. What do you tell them?"
+	},
+	"2021-05-05": {
+		"number": 138,
+		"prompt": "What is the next thing you intend to learn, and how do you plan to study it?"
+	},
+	"2021-05-07": {
+		"number": 139,
+		"prompt": "It's often hard to apply theory to everyday life. What's one principle you're trying to consume in your day-to-day?"
+	},
+	"2021-05-10": {
+		"number": 140,
+		"prompt": "Tell us a song lyric that describes your day."
+	},
+	"2021-05-12": {
+		"number": 141,
+		"prompt": "What would you do if we started a 20% time? https://en.wikipedia.org/wiki/20%25_Project"
+	},
+	"2021-05-14": {
+		"number": 142,
+		"prompt": "How do you setup your phone home screen? Share a picture."
+	},
+	"2021-05-17": {
+		"number": 143,
+		"prompt": "If you could safely eat any inedible object, what would it be?"
+	},
+	"2021-05-19": {
+		"number": 144,
+		"prompt": "What new tool / startup / idea / etc have you seen lately that was revolutionary, that made you go wow? The more obscure, the better."
+	},
+	"2021-05-21": {
+		"number": 145,
+		"prompt": "What's your favorite Slack channel, and why?"
+	},
+	"2021-05-24": {
+		"number": 146,
+		"prompt": "Without using the title of your job, tell me what you do."
+	},
+	"2021-05-26": {
+		"number": 147,
+		"prompt": "Did you finish your schoolwork ahead of time or right before it was due and how does that reflect on your approach to deadlines?"
+	},
+	"2021-05-28": {
+		"number": 148,
+		"prompt": "What have you done recently that scared you? How did it turn out?"
+	},
+	"2021-05-31": {
+		"number": 149,
+		"prompt": "What do you wish you did differently in your twenties?"
+	},
+	"2021-06-02": {
+		"number": 150,
+		"prompt": "Are there plants in your office? Do you find value in plants? Alternately: how is your garden doing? Pictures welcome."
+	},
+	"2021-06-04": {
+		"number": 151,
+		"prompt": "What was the best birthday you ever had? Why?"
+	},
+	"2021-06-07": {
+		"number": 152,
+		"prompt": "What are you afraid of?"
+	},
+	"2021-06-09": {
+		"number": 153,
+		"prompt": "What's the last thing that changed your mind?"
+	},
+	"2021-06-11": {
+		"number": 154,
+		"prompt": "What is your personality type? Feel free to describe yourself in your own words or there are many tests out there, e.g. http://www.16personalities.com/free-personality-test."
+	},
+	"2021-06-14": {
+		"number": 155,
+		"prompt": "Is a hotdog a sandwich? Why?"
+	},
+	"2021-06-16": {
+		"number": 156,
+		"prompt": "What’s motivating for you right now?"
+	},
+	"2021-06-18": {
+		"number": 157,
+		"prompt": "Share a picture of the scene outside your home office window."
+	},
+	"2021-06-21": {
+		"number": 158,
+		"prompt": "We all customize our working environment a little. What useful tweaks have you made to your setup?"
+	},
+	"2021-06-23": {
+		"number": 159,
+		"prompt": "What did you accomplish yesterday? Did you achieve your goal?"
+	},
+	"2021-06-25": {
+		"number": 160,
+		"prompt": "What is the most interesting / memorable thing you've ever seen out of a window?"
+	},
+	"2021-06-28": {
+		"number": 161,
+		"prompt": "What’s a book you’ve been meaning to read, but haven't yet?"
+	},
+	"2021-06-30": {
+		"number": 162,
+		"prompt": "What one talk/video would you recommend we watch?"
+	},
+	"2021-07-02": {
+		"number": 163,
+		"prompt": "What's your go-to meal that you prepare for dinner?"
+	},
+	"2021-07-05": {
+		"number": 164,
+		"prompt": "Your company has given you a paid sabbatical and tuition reimbursement for higher education for one calendar year. What do you study? Why?"
+	},
+	"2021-07-07": {
+		"number": 165,
+		"prompt": "Bruce Wayne picked \"Batman\" as a way to take control of one of his biggest fears. If you went the same route, what would you be called?"
+	},
+	"2021-07-09": {
+		"number": 166,
+		"prompt": "What is your favorite comfort food meal? Is there something so simple to make that it doesn't feel like cooking? A specific menu item that you have delivered? Bonus points for pictures!"
+	},
+	"2021-07-12": {
+		"number": 167,
+		"prompt": "What is something you are right about that is very controversial?"
+	},
+	"2021-07-14": {
+		"number": 168,
+		"prompt": "Quiet time. Our schedules are often packed with meetings. How do you get quiet time alone to just step back and think?"
+	},
+	"2021-07-16": {
+		"number": 169,
+		"prompt": "Do you have a quote, phrase, saying or mantra that regularly influences your thinking or approach to problems, life or work?"
+	},
+	"2021-07-19": {
+		"number": 170,
+		"prompt": "Would you ever consider living somewhere you've visited? Where would it be and how long would you live there?"
+	},
+	"2021-07-21": {
+		"number": 171,
+		"prompt": "What do you wish you were better at?"
+	},
+	"2021-07-23": {
+		"number": 172,
+		"prompt": "Read for 30 minutes today. What did you read about?"
+	},
+	"2021-07-26": {
+		"number": 173,
+		"prompt": "Find something to write with, and something to write on. Set a five minute timer. Draw something wherever you are now. Take a photo and post it here."
+	},
+	"2021-07-28": {
+		"number": 174,
+		"prompt": "Your name is an acronym now. What does it stand for?"
+	},
+	"2021-07-30": {
+		"number": 175,
+		"prompt": "What emoji would your team or coworkers choose to represent you and why?"
+	},
+	"2021-08-02": {
+		"number": 176,
+		"prompt": "What would you like to write a book about?"
+	},
+	"2021-08-04": {
+		"number": 177,
+		"prompt": "What is something fun you did that you'd never do again?"
+	},
+	"2021-08-06": {
+		"number": 178,
+		"prompt": "What would you do if you were given one billion dollars?"
+	},
+	"2021-08-09": {
+		"number": 179,
+		"prompt": "Do you take walks regularly? Go take a walk. Share a picture from your walk."
+	},
+	"2021-08-11": {
+		"number": 180,
+		"prompt": "What normally tries to distract you during the day and how do you manage it?"
+	},
+	"2021-08-13": {
+		"number": 181,
+		"prompt": "What's your favorite drink?"
+	},
+	"2021-08-16": {
+		"number": 182,
+		"prompt": "Have you ever had a \"why didn't I start doing this sooner\" moment? What was it? What was stopping you?"
+	},
+	"2021-08-18": {
+		"number": 183,
+		"prompt": "What book have you re-read more than any other?"
+	},
+	"2021-08-20": {
+		"number": 184,
+		"prompt": "What's your favorite thing about the city / town you live in?"
+	},
+	"2021-08-23": {
+		"number": 185,
+		"prompt": "What Is your favorite non-english phrase? Why?"
+	},
+	"2021-08-25": {
+		"number": 186,
+		"prompt": "What's the best thing you've done recently to make someone else's life better?"
+	},
+	"2021-08-27": {
+		"number": 187,
+		"prompt": "Ten years from now what do you think you'll regret doing too much of or too little of at this point in your life?"
+	},
+	"2021-08-30": {
+		"number": 188,
+		"prompt": "Tell us about something you learned outside of work that's made you better at your job."
+	},
+	"2021-09-01": {
+		"number": 189,
+		"prompt": "What do you folks think our jobs will be like in 20-25 years time? Will humans be replaced entirely? Will we still have jobs?"
+	},
+	"2021-09-03": {
+		"number": 190,
+		"prompt": "What would you choose to do with today if you had no responsibilities? Is there any part of that which you can actually build into your day?"
+	},
+	"2021-09-06": {
+		"number": 191,
+		"prompt": "What's your favorite interview question to ask or answer?"
+	},
+	"2021-09-08": {
+		"number": 192,
+		"prompt": "Is moving to a new country something you have done, have considered, or is it off the table? Why?"
+	},
+	"2021-09-10": {
+		"number": 193,
+		"prompt": "What apps can you not live without?"
+	},
+	"2021-09-13": {
+		"number": 194,
+		"prompt": "Of the places you have lived or spent significant time, which one had the most pleasing view out the front door/main window/etc for you and why?"
+	},
+	"2021-09-15": {
+		"number": 195,
+		"prompt": "What activity do you wish you could add to your daily work day, or make more time for? What do you wish you could eliminate?"
+	},
+	"2021-09-17": {
+		"number": 196,
+		"prompt": "Do you go somewhere specific when you need to focus? If so, where? Do you have different kinds of focus that you get from different environments? e.g. thinking while running, writing while in a coffee shop, coding while in complete silence, etc"
+	},
+	"2021-09-20": {
+		"number": 197,
+		"prompt": "How often do you rearrange furniture at your home / home office? Did you do one recently or are you planning one soon?"
+	},
+	"2021-09-22": {
+		"number": 198,
+		"prompt": "What technology devices do you use? How do you use them? e.g. gaming PC, iPad in the evening, no computers on weekends, etc."
+	},
+	"2021-09-24": {
+		"number": 199,
+		"prompt": "Do you do any journaling, either in your career or your outside-the-job life? If so, what do you record, and why?"
+	},
+	"2021-09-27": {
+		"number": 200,
+		"prompt": "Have you taken a holiday this year? Do you have a plan for one?"
+	},
+	"2021-09-29": {
+		"number": 201,
+		"prompt": "DC1095: How are you making the boat go faster? Context: https://www.youtube.com/watch?v=VlTfbGemGcM"
+	},
+	"2021-10-01": {
+		"number": 202,
+		"prompt": "What desktop / smartphone / tablet app do you use that you are surprised more folk don't know about?"
+	},
+	"2021-10-04": {
+		"number": 203,
+		"prompt": "If you were reincarnated, what creature would you hope to be in your next life?"
+	},
+	"2021-10-06": {
+		"number": 204,
+		"prompt": "How do you keep track of things? I mean *all the things.* How do you grab and remember the vast array of things are zipping past you every day. Todo lists? Productivity software? Aggressive inbox gymnastics?"
+	},
+	"2021-10-08": {
+		"number": 205,
+		"prompt": "You wake up tomorrow and find out you've won 10 million on the lottery. What do you do?"
+	},
+	"2021-10-11": {
+		"number": 206,
+		"prompt": "Lunchtime. What is your team’s lunch culture? Do you do lunch together as a team? Do you work through lunch?"
+	},
+	"2021-10-13": {
+		"number": 207,
+		"prompt": "Share a picture of your child / pet / something else important."
+	},
+	"2021-10-15": {
+		"number": 208,
+		"prompt": "Have you ever started your own business? If so, how did it go? If not, do you want to? What's stopping you?"
+	},
+	"2021-10-18": {
+		"number": 209,
+		"prompt": "If you had a 6 month sabbatical to work on whatever you wanted, what would you do?"
+	},
+	"2021-10-20": {
+		"number": 210,
+		"prompt": "What bad habit do you wish would magically disappear?"
+	},
+	"2021-10-22": {
+		"number": 211,
+		"prompt": "You've got a ton of stuff on your plate in a somewhat prioritized \"list\". So, where do you keep this info? Saved locally on your computer, saved in Trello, in a notebook? Is it even a list? Or is it a mind map, drawing, haiku, etc?"
+	},
+	"2021-10-25": {
+		"number": 212,
+		"prompt": "What are your top 3 favorite books?"
+	},
+	"2021-10-27": {
+		"number": 213,
+		"prompt": "You put a book on your boss's desk. What book is that and why?"
+	},
+	"2021-10-29": {
+		"number": 214,
+		"prompt": "Do you have a favorite game to play? Board game, video game, sports game, or something else? Why do you like it so much?"
+	},
+	"2021-11-01": {
+		"number": 215,
+		"prompt": "If you had all the time and energy and money and equipment and help you needed, what personal project would you launch?"
+	},
+	"2021-11-03": {
+		"number": 216,
+		"prompt": "What workplace superpower (not like flying, but like zero-cost task switching or the ability to perfectly read the room) have you observed in others and wish you could acquire/learn?"
+	},
+	"2021-11-05": {
+		"number": 217,
+		"prompt": "What other position do you believe you could fill at Tradeshift if not your own?"
+	},
+	"2021-11-08": {
+		"number": 218,
+		"prompt": "What is something you would rename? Could be anything, a restaurant, a country."
+	},
+	"2021-11-10": {
+		"number": 219,
+		"prompt": "How would you describe the meeting culture in your team? Are you cool with that? What is your favorite alternative to scheduling a meeting?"
+	},
+	"2021-11-12": {
+		"number": 220,
+		"prompt": "What is the most recent book or film you finished? How would you review it?"
+	},
+	"2021-11-15": {
+		"number": 221,
+		"prompt": "What's holding you back?"
+	},
+	"2021-11-17": {
+		"number": 222,
+		"prompt": "What is the best thing you have done, gotten done, or seen done in the last week-ish? e.g. gone skiing, released a cool feature, helped someone get a promotion, etc."
+	},
+	"2021-11-19": {
+		"number": 223,
+		"prompt": "What is your favorite body of water? Why?"
+	},
+	"2021-11-22": {
+		"number": 224,
+		"prompt": "What fictional world would you like to take a vacation on?"
+	},
+	"2021-11-24": {
+		"number": 225,
+		"prompt": "If you could have a wild animal as a pet, what would it be?"
+	},
+	"2021-11-26": {
+		"number": 226,
+		"prompt": "What's unique and adorable about your pet? Provide photo / video evidence."
+	},
+	"2021-11-29": {
+		"number": 227,
+		"prompt": "What's your goal for the day?"
+	},
+	"2021-12-01": {
+		"number": 228,
+		"prompt": "What has made you smile in the past 24 hours?"
+	},
+	"2021-12-03": {
+		"number": 229,
+		"prompt": "Dogs, cats, or other? Why?"
+	},
+	"2021-12-06": {
+		"number": 230,
+		"prompt": "Do you think living a nomadic lifestyle, working fully remote, and traveling the world is worth the hassle? Why? Please indulge if you have done or are doing this."
+	},
+	"2021-12-08": {
+		"number": 231,
+		"prompt": "How do you carve out time to watch videos, read books and otherwise focus on your own development?"
+	},
+	"2021-12-10": {
+		"number": 232,
+		"prompt": "Which book did you read in college or high school that was actually interesting enough that you still think or talk about it sometimes?"
+	},
+	"2021-12-13": {
+		"number": 233,
+		"prompt": "The wins are fun. This one is harder. Tell us about a time you messed up at work or on a project and what you learned."
+	},
+	"2021-12-15": {
+		"number": 234,
+		"prompt": "If you could go somewhere for 2 weeks by yourself, where would you go and why?"
+	},
+	"2021-12-17": {
+		"number": 235,
+		"prompt": "How do you know if you've had a good week? How do you know if you haven't had a good week?"
+	},
+	"2021-12-20": {
+		"number": 236,
+		"prompt": "Share a pic of what you're doing."
+	},
+	"2022-01-03": {
+		"number": 237,
+		"prompt": "Tell us a song lyric that describes how you feel right now."
+	},
+	"2022-01-05": {
+		"number": 238,
+		"prompt": "Link to a journal / newsletter / mailing list / online forum that you love. Why should we read / visit it?"
+	},
+	"2022-01-07": {
+		"number": 239,
+		"prompt": "Name your three desert island books."
+	},
+	"2022-01-10": {
+		"number": 240,
+		"prompt": "At some point in your career you did something and thought, \"That was cool! I rocked it!\" Tell us about it."
+	},
+	"2022-01-12": {
+		"number": 241,
+		"prompt": "Look around your desk, is it messy or clean? Are there personal trinkets laying around? What do you think your desk says about you? And ideally, what would you like for your desk to say about you?"
+	},
+	"2022-01-14": {
+		"number": 242,
+		"prompt": "When you become the all-powerful Imperial Ruler of the World, what's the first law that you'll implement?"
+	},
+	"2022-01-17": {
+		"number": 243,
+		"prompt": "What was your first R-rated movie?"
+	},
+	"2022-01-19": {
+		"number": 244,
+		"prompt": "What is something you didn't like but you are glad happened?"
+	},
+	"2022-01-21": {
+		"number": 245,
+		"prompt": "If you could own one building, any building, what building would it be?"
+	},
+	"2022-01-24": {
+		"number": 246,
+		"prompt": "You start your day and suddenly find all meetings cancelled, scheduled discussions delayed, etc, freeing up your entire day. How would you use this time?"
+	},
+	"2022-01-26": {
+		"number": 247,
+		"prompt": "What is your earliest memory?"
 	}
 }

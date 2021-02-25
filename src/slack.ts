@@ -8,8 +8,16 @@ interface Prompt {
 	prompt: string;
 }
 
+// agilicious #tell-us-about
+// const channelId = 'C01NDUL2788';
+
+// tradeshift #temp-tua-app
+const channelId = 'C01PFTFQL4U';
+
+// tradeshift #tell-us-about
+// const channelId = 'C01699XLFST';
+
 const FILE = resolve(process.cwd(), './data/prompts.json');
-const channelId = 'C01NDUL2788';
 const client = new WebClient(process.env.SLACK_BOT_TOKEN, {
 	logLevel: LogLevel.DEBUG,
 });
