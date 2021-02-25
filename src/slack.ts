@@ -12,10 +12,10 @@ interface Prompt {
 // const channelId = 'C01NDUL2788';
 
 // tradeshift #temp-tua-app
-const channelId = 'C01PFTFQL4U';
+// const channelId = 'C01PFTFQL4U';
 
 // tradeshift #tell-us-about
-// const channelId = 'C01699XLFST';
+const channelId = 'C01699XLFST';
 
 const FILE = resolve(process.cwd(), './data/prompts.json');
 const client = new WebClient(process.env.SLACK_BOT_TOKEN, {
