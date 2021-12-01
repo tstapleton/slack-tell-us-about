@@ -4,8 +4,8 @@ import { resolve } from 'path';
 import config from 'src/config';
 
 interface Prompt {
-	number: number;
-	prompt: string;
+	readonly number: number;
+	readonly prompt: string;
 }
 
 const FILE = resolve(process.cwd(), './data/prompts.json');
