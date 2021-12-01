@@ -1,4 +1,500 @@
 {
+	"2020-07-08": {
+		"number": 1,
+		"prompt": "What’s your favorite winter/holiday dish"
+	},
+	"2020-07-09": {
+		"number": 2,
+		"prompt": "You’re having a sucky day. What music do you put on"
+	},
+	"2020-07-10": {
+		"number": 3,
+		"prompt": "Happy Friday! Any plans for the weekend"
+	},
+	"2020-07-13": {
+		"number": 4,
+		"prompt": "Happy Monday! What’s one project at work you really wish you could make time to work on, but never seem to have the chance"
+	},
+	"2020-07-14": {
+		"number": 5,
+		"prompt": "What's your favorite thing on your desk? Why? Bonus points for a picture"
+	},
+	"2020-07-15": {
+		"number": 6,
+		"prompt": "What did you learn in your first year working that still holds true today"
+	},
+	"2020-07-16": {
+		"number": 7,
+		"prompt": "What are your favorite podcasts? Are there particular episodes you’d recommend"
+	},
+	"2020-07-17": {
+		"number": 8,
+		"prompt": "What’s your favorite joke"
+	},
+	"2020-07-20": {
+		"number": 9,
+		"prompt": "Describe your weekend. Emojis only"
+	},
+	"2020-07-21": {
+		"number": 10,
+		"prompt": "What do you like best about your job"
+	},
+	"2020-07-22": {
+		"number": 11,
+		"prompt": "What books are you currently reading"
+	},
+	"2020-07-23": {
+		"number": 12,
+		"prompt": "What’s the best piece of advice you can offer someone new to your industry? (assume “run away!” is not an option"
+	},
+	"2020-07-24": {
+		"number": 13,
+		"prompt": "Happy Friday! We are all working remotely these days, and likely will be for a while. If you could live anywhere for a year, where would that be? And what’s stopping you from doing that"
+	},
+	"2020-07-27": {
+		"number": 14,
+		"prompt": "What’s a good habit you’ve picked up that wasn’t easy to build"
+	},
+	"2020-07-28": {
+		"number": 15,
+		"prompt": "What was your favorite toy growing up"
+	},
+	"2020-07-29": {
+		"number": 16,
+		"prompt": "What problem are you trying to solve"
+	},
+	"2020-07-30": {
+		"number": 17,
+		"prompt": "If you had complete control over your work schedule, what would an ideal day look like? hours/activities/etc"
+	},
+	"2020-07-31": {
+		"number": 18,
+		"prompt": "Breakfast: most important meal of the day, or overrated also-ran meal? How do you fuel up for the day"
+	},
+	"2020-08-03": {
+		"number": 19,
+		"prompt": "What things do you think are important to do every day"
+	},
+	"2020-08-04": {
+		"number": 20,
+		"prompt": "What was your first job? How'd you get it? How'd you do"
+	},
+	"2020-08-05": {
+		"number": 21,
+		"prompt": "You win a lifetime supply of a single thing, what would it be? And why"
+	},
+	"2020-08-06": {
+		"number": 22,
+		"prompt": "What’s your favorite season? Why"
+	},
+	"2020-08-07": {
+		"number": 23,
+		"prompt": "What did you learn this week"
+	},
+	"2020-08-10": {
+		"number": 24,
+		"prompt": "Happy Monday! How do you prepare for the start of the work week? What secret weapon do you use to help you? e.g. a Friday afternoon/Monday morning look ahead, a preparation list on Sunday evening, etc"
+	},
+	"2020-08-11": {
+		"number": 25,
+		"prompt": "What is your favorite meeting of the week? Why is it your favorite"
+	},
+	"2020-08-12": {
+		"number": 26,
+		"prompt": "What would you do if you had a Snow Day, today? No remote working, no calling in to meetings — a real old fashioned Snow Day"
+	},
+	"2020-08-13": {
+		"number": 27,
+		"prompt": "What was the first physical music album (CD / cassette / 8-track / vinyl / etc) you ever bought? Would you still listen to it today"
+	},
+	"2020-08-14": {
+		"number": 28,
+		"prompt": "Happy Friday! Describe your week in a giphy"
+	},
+	"2020-08-17": {
+		"number": 29,
+		"prompt": "Happy Monday! First concert? Best concert"
+	},
+	"2020-08-18": {
+		"number": 30,
+		"prompt": "Have you ever locked yourself out of your house and had to break in"
+	},
+	"2020-08-19": {
+		"number": 31,
+		"prompt": "What’s the most important element to a really successful workday"
+	},
+	"2020-08-20": {
+		"number": 32,
+		"prompt": "Do you like or dislike public speaking? Why? Have you always felt that way"
+	},
+	"2020-08-21": {
+		"number": 33,
+		"prompt": "Your out-of-town friends come to visit. What’s one place you would take them? (Assume we are still living in pre-covid times."
+	},
+	"2020-08-24": {
+		"number": 34,
+		"prompt": "Happy Monday! In what ways do you want this week to be different than last week"
+	},
+	"2020-08-25": {
+		"number": 35,
+		"prompt": "Tell us about a piece of art on your wall"
+	},
+	"2020-08-26": {
+		"number": 36,
+		"prompt": "Is there anything you collect? e.g. ornamental spoons, magnets from places you vacation at, coins, etc"
+	},
+	"2020-08-27": {
+		"number": 37,
+		"prompt": "What’s your favorite emoji"
+	},
+	"2020-08-28": {
+		"number": 38,
+		"prompt": "Happy Friday! What’s worse: early Monday morning meetings or late Friday afternoon meetings? Why do you think so"
+	},
+	"2020-08-31": {
+		"number": 39,
+		"prompt": "Happy Monday! What is your big rock - the main, focused project - that you’re trying to move this week"
+	},
+	"2020-09-01": {
+		"number": 40,
+		"prompt": "What's your favorite way to waste time on the internet"
+	},
+	"2020-09-02": {
+		"number": 41,
+		"prompt": "When the UFO lands, are you more excited or frightened? Why"
+	},
+	"2020-09-03": {
+		"number": 42,
+		"prompt": "How do you get uninterrupted blocks of time to do work"
+	},
+	"2020-09-08": {
+		"number": 43,
+		"prompt": "Do you have any mental models you find either particularly useful, or which appears frequently in your work or life"
+	},
+	"2020-09-09": {
+		"number": 44,
+		"prompt": "WHEN IS IT APPROPRIATE TO USE ALL CAPS"
+	},
+	"2020-09-10": {
+		"number": 45,
+		"prompt": "Many of us have been spending more time where we live recently. What's the best improvement you've made to make your life at home more pleasant"
+	},
+	"2020-09-11": {
+		"number": 46,
+		"prompt": "What book should everyone read"
+	},
+	"2020-09-15": {
+		"number": 47,
+		"prompt": "Tell us a song lyric that described your weekend"
+	},
+	"2020-09-16": {
+		"number": 48,
+		"prompt": "Tell us a song lyric that describes what you want to be doing now"
+	},
+	"2020-09-17": {
+		"number": 49,
+		"prompt": "Throwback Thursday. Share a favorite song from a different era of your life"
+	},
+	"2020-09-18": {
+		"number": 50,
+		"prompt": "Happy Friday! Share a song that makes you feel better"
+	},
+	"2020-09-21": {
+		"number": 51,
+		"prompt": "Happy Monday! What are you most looking forward to this week"
+	},
+	"2020-09-22": {
+		"number": 52,
+		"prompt": "How many browser tabs do you have open right now"
+	},
+	"2020-09-23": {
+		"number": 53,
+		"prompt": "If you could travel back in time (and could later return to the present), what period would you visit"
+	},
+	"2020-09-24": {
+		"number": 54,
+		"prompt": "If you could travel back in time (and you had to stay there), what period would you visit"
+	},
+	"2020-09-25": {
+		"number": 55,
+		"prompt": "If we are ever in a position to recreate the T-Rex, should we do it"
+	},
+	"2020-09-28": {
+		"number": 56,
+		"prompt": "Tell is about your favorite pet"
+	},
+	"2020-10-01": {
+		"number": 57,
+		"prompt": "Today is the first day of a new month. Have you ever done monthly challenges? How did they go? Maybe you want to set one for yourself for this month"
+	},
+	"2020-10-02": {
+		"number": 58,
+		"prompt": "Do you usually put up decorations for Halloween? Are you doing anything different this year"
+	},
+	"2020-10-05": {
+		"number": 59,
+		"prompt": "You’ve made enough money that you don’t need to work. But you still want to. What would you do"
+	},
+	"2020-10-06": {
+		"number": 60,
+		"prompt": "How do you stay in shape while working from home"
+	},
+	"2020-10-07": {
+		"number": 61,
+		"prompt": "Tell us something about the house you grew up in"
+	},
+	"2020-10-12": {
+		"number": 62,
+		"prompt": "Emergency week! Do you have an emergency supplies kit, either at home or at work? What is in it? How did you decide"
+	},
+	"2020-10-13": {
+		"number": 63,
+		"prompt": "Emergency week! What do you do to prepare for work-crisis situations? Have you had occasion yet to find out whether it works? Does it"
+	},
+	"2020-10-14": {
+		"number": 64,
+		"prompt": "Emergency week! Have you been impacted by a natural disaster? Tell us about it"
+	},
+	"2020-10-19": {
+		"number": 65,
+		"prompt": "What TV show or movie would you recommend we watch"
+	},
+	"2020-10-20": {
+		"number": 66,
+		"prompt": "Do you have a favorite short form piece of writing you think is worth sharing? Could be a blog post, short story, article, or anything else really"
+	},
+	"2020-10-21": {
+		"number": 67,
+		"prompt": "Wednesday! Hump day! How’s the week going for you? What’s going well? What’s not going so well? What can you do to make the rest of the week better"
+	},
+	"2020-10-22": {
+		"number": 68,
+		"prompt": "What's your favorite autumn-y drink"
+	},
+	"2020-10-26": {
+		"number": 69,
+		"prompt": "Most overrated and underrated candy"
+	},
+	"2020-10-27": {
+		"number": 70,
+		"prompt": "Are you dressing up this year? Maybe wearing a costume to Zoom calls on Friday"
+	},
+	"2020-10-28": {
+		"number": 71,
+		"prompt": "Have any good pics of pet costumes"
+	},
+	"2020-10-29": {
+		"number": 72,
+		"prompt": "What costume would you wear if you had every costume possibly in existence arrayed in front of you for your choice and you had to choose one"
+	},
+	"2020-10-30": {
+		"number": 73,
+		"prompt": "Think back to when you used to go trick or treating. What was the best treat receive? The worst"
+	},
+	"2020-11-02": {
+		"number": 74,
+		"prompt": "The clocks changed recently. How did you spend the extra hour"
+	},
+	"2020-11-03": {
+		"number": 75,
+		"prompt": "If you could only use three condiments for the rest of your life, what would they be"
+	},
+	"2020-11-04": {
+		"number": 76,
+		"prompt": "If you had to go for a swim in a food, which food would it be"
+	},
+	"2020-11-09": {
+		"number": 77,
+		"prompt": "Sleep week. How are you sleeping these days? Do you have an intentional routine that’s important for getting rest"
+	},
+	"2020-11-10": {
+		"number": 78,
+		"prompt": "Sleep week. How much do you usually get? Is it enough"
+	},
+	"2020-11-11": {
+		"number": 79,
+		"prompt": "Sleep week. If you did not have to sleep, how would you spend the extra 8 hours"
+	},
+	"2020-11-12": {
+		"number": 80,
+		"prompt": "Sleep week. Do you take naps? Would you take naps if you could"
+	},
+	"2020-11-16": {
+		"number": 81,
+		"prompt": "Happy Monday! What did you do over the weekend"
+	},
+	"2020-11-17": {
+		"number": 82,
+		"prompt": "What would you tell your January 1, 2020-self"
+	},
+	"2020-11-18": {
+		"number": 83,
+		"prompt": "Do you have a favorite mask"
+	},
+	"2020-11-23": {
+		"number": 84,
+		"prompt": "Tell us two truths and one lie. Label each with an emoji so people can vote. Answer in the thread :thread: for your post next week"
+	},
+	"2020-11-30": {
+		"number": 85,
+		"prompt": "Did you eat anything good last week? Care to share a picture or recipe"
+	},
+	"2020-12-01": {
+		"number": 86,
+		"prompt": "Tell us something a colleague of yours did recently that you thought was great"
+	},
+	"2020-12-02": {
+		"number": 87,
+		"prompt": "What do you most look forward to in the winter"
+	},
+	"2020-12-03": {
+		"number": 88,
+		"prompt": "What do you most look forward to in the summer"
+	},
+	"2020-12-07": {
+		"number": 89,
+		"prompt": "What was your first computer? What did you do with it"
+	},
+	"2020-12-08": {
+		"number": 90,
+		"prompt": "Continuing with nostalgic technology. What were your early screen names"
+	},
+	"2020-12-10": {
+		"number": 91,
+		"prompt": "Think back to your life 10 - 20 years ago. What was your favorite piece of technology? How did it affect your life and how much have things changed since then"
+	},
+	"2020-12-14": {
+		"number": 92,
+		"prompt": "Do you have any smart home devices? How / why did you start using them? How are they working out for you? Anything you want to make smart that you haven’t yet"
+	},
+	"2020-12-15": {
+		"number": 93,
+		"prompt": "What’s your favorite holiday song / album / playlist"
+	},
+	"2020-12-17": {
+		"number": 94,
+		"prompt": "What is one repeating problem you can automate or eliminate today"
+	},
+	"2020-12-22": {
+		"number": 95,
+		"prompt": "Share a picture of what you’re doing"
+	},
+	"2021-01-04": {
+		"number": 96,
+		"prompt": "Did you set any New Year’s resolutions? Or seasonal themes perhaps"
+	},
+	"2021-01-06": {
+		"number": 97,
+		"prompt": "We’re finally getting rid of 2020. Besides the pandemic itself (when that’s possible), what are you most looking forward to leaving behind"
+	},
+	"2021-01-12": {
+		"number": 98,
+		"prompt": "Recommend literally anything"
+	},
+	"2021-01-14": {
+		"number": 99,
+		"prompt": "Do you have any stickers on your laptop? Post a pic"
+	},
+	"2021-01-19": {
+		"number": 100,
+		"prompt": "Do something you haven’t done in a while. What did you do? How did it go"
+	},
+	"2021-01-22": {
+		"number": 101,
+		"prompt": "If you ran #tell-us-about for a day, what would you ask people to #tell-us-about"
+	},
+	"2021-01-25": {
+		"number": 102,
+		"prompt": "Describe how your weekend went. Emojis only"
+	},
+	"2021-01-26": {
+		"number": 103,
+		"prompt": "Describe a typical work day using emojis"
+	},
+	"2021-01-27": {
+		"number": 104,
+		"prompt": "Using only emojis, tell us about a memorable conversation you had recently"
+	},
+	"2021-01-28": {
+		"number": 105,
+		"prompt": "Any plans this weekend? Tell us. Emojis"
+	},
+	"2021-02-01": {
+		"number": 106,
+		"prompt": "Interpret someone’s emoji posting from last week"
+	},
+	"2021-02-22": {
+		"number": 107,
+		"prompt": "What’s your favorite place you’ve visited"
+	},
+	"2021-02-24": {
+		"number": 108,
+		"prompt": "What is your favorite sports team and why"
+	},
+	"2021-02-26": {
+		"number": 109,
+		"prompt": "Share a picture of the scene outside your home office window"
+	},
+	"2021-03-01": {
+		"number": 110,
+		"prompt": "What music do you play at work"
+	},
+	"2021-03-03": {
+		"number": 111,
+		"prompt": "What do you do when you're bored"
+	},
+	"2021-03-05": {
+		"number": 112,
+		"prompt": "What did you do this week that you're proud of"
+	},
+	"2021-03-08": {
+		"number": 113,
+		"prompt": "What makes you feel super awkward"
+	},
+	"2021-03-10": {
+		"number": 114,
+		"prompt": "What is the potential problem that worries you most right now"
+	},
+	"2021-03-12": {
+		"number": 115,
+		"prompt": "How do you learn best? Do you have any tips / tricks to make picking up new things easier"
+	},
+	"2021-03-15": {
+		"number": 116,
+		"prompt": "What have you said no to recently? What were the consequences? How did it make you feel"
+	},
+	"2021-03-17": {
+		"number": 117,
+		"prompt": "What was the best work-related prank/gag you pulled"
+	},
+	"2021-03-19": {
+		"number": 118,
+		"prompt": "What will you do this week that you didn't do last week"
+	},
+	"2021-03-22": {
+		"number": 119,
+		"prompt": "What does your work schedule look like for the next 2 weeks? How much is dedicated to meetings? What sort of meetings? Why is that the right/wrong balance for now"
+	},
+	"2021-03-24": {
+		"number": 120,
+		"prompt": "Share a picture you took that you really like"
+	},
+	"2021-03-26": {
+		"number": 121,
+		"prompt": "Cal Newport's philosophy (outlined in Deep Work), is all about finding ways and means to create great focus, to do what he calls Deep Work. If and when you're able to carve out time for the kind of laser focus, what does your Deep Work consist of? What specifically would you do during that time of focus"
+	},
+	"2021-03-29": {
+		"number": 122,
+		"prompt": "You have a free pass to introduce an item, practice, or benefit to your team permanently. What is it"
+	},
+	"2021-03-31": {
+		"number": 123,
+		"prompt": "How’s the weather where you are? Even better if you have a picture"
+	},
+	"2021-04-02": {
+		"number": 124,
+		"prompt": "What is one thing you are snobby about"
+	},
 	"2021-04-05": {
 		"number": 125,
 		"prompt": "Are you usually early or late to appointments?"
@@ -710,5 +1206,177 @@
 	"2021-12-08": {
 		"number": 302,
 		"prompt": "What are some small things that make your day better?"
+	},
+	"2021-12-09": {
+		"number": 303,
+		"prompt": "What’s something dumb you did as a child or teenager?"
+	},
+	"2021-12-10": {
+		"number": 304,
+		"prompt": "What is your favorite way to spend a Sunday?"
+	},
+	"2021-12-13": {
+		"number": 305,
+		"prompt": "Have you ever been stood up for a date?"
+	},
+	"2021-12-14": {
+		"number": 306,
+		"prompt": "Did you ever sneak out of your house after curfew without your parents knowing?"
+	},
+	"2021-12-15": {
+		"number": 307,
+		"prompt": "If you had to have roughly the same work day, 5 days a week, for the next 10 years, what activities would you ideally want this work day to consist of?"
+	},
+	"2021-12-16": {
+		"number": 308,
+		"prompt": "Have you ever been the target of a practical joke?"
+	},
+	"2021-12-17": {
+		"number": 309,
+		"prompt": "Beep boop. I'm taking the next two weeks off to recharge. This one will stay up until after the new year. Share a picture of what you’re doing."
+	},
+	"2021-12-20": {
+		"number": 310,
+		"prompt": "What distracts you the most every day?"
+	},
+	"2021-12-21": {
+		"number": 311,
+		"prompt": "Suppose you knew that you were going to die instantly (but painlessly) in exactly 7 days. What would you spend your last week doing?"
+	},
+	"2021-12-22": {
+		"number": 312,
+		"prompt": "What one thing could you do a little better every day?"
+	},
+	"2021-12-23": {
+		"number": 313,
+		"prompt": "Tell us about a trip / event / weekend where something went wrong."
+	},
+	"2021-12-24": {
+		"number": 314,
+		"prompt": "Would you travel to space if possible?"
+	},
+	"2021-12-27": {
+		"number": 315,
+		"prompt": "Share a childhood or teenage photo of yourself and tell a story."
+	},
+	"2021-12-28": {
+		"number": 316,
+		"prompt": "Have you ever snuck in somewhere you shouldn't have been?"
+	},
+	"2021-12-29": {
+		"number": 317,
+		"prompt": "Is there a food you loved as a kid but hate as an adult?"
+	},
+	"2021-12-30": {
+		"number": 318,
+		"prompt": "Are you a hat person?"
+	},
+	"2021-12-31": {
+		"number": 319,
+		"prompt": "Show a photo, video or street view of your hometown and tell us what makes it unique to you."
+	},
+	"2022-01-03": {
+		"number": 320,
+		"prompt": "How many backup plans do you make for your original plan?"
+	},
+	"2022-01-04": {
+		"number": 321,
+		"prompt": "Did you ever skip school? What did you do instead?"
+	},
+	"2022-01-05": {
+		"number": 322,
+		"prompt": "What's a common topic at your dinner table?"
+	},
+	"2022-01-06": {
+		"number": 323,
+		"prompt": "Do you have a favorite pair of blue jeans? Describe them."
+	},
+	"2022-01-07": {
+		"number": 324,
+		"prompt": "Have your parents told you something as an adult that they kept from you as a child?"
+	},
+	"2022-01-10": {
+		"number": 325,
+		"prompt": "What are your three favorite internet sites?"
+	},
+	"2022-01-11": {
+		"number": 326,
+		"prompt": "What is the perfect food for a food fight?"
+	},
+	"2022-01-12": {
+		"number": 327,
+		"prompt": "Do you prefer to live in the heart of the city or out in the peaceful countryside?"
+	},
+	"2022-01-13": {
+		"number": 328,
+		"prompt": "If you knew for a fact that you were going to die exactly 10 years from now, how would you change your current behavior?"
+	},
+	"2022-01-14": {
+		"number": 329,
+		"prompt": "What’s one of the best days you’ve had in your entire life? Describe what happened that day."
+	},
+	"2022-01-17": {
+		"number": 330,
+		"prompt": "What is the most important thing that you know you really should do but which you have trouble getting yourself to do?"
+	},
+	"2022-01-18": {
+		"number": 331,
+		"prompt": "What was the brand of your first cell phone?"
+	},
+	"2022-01-19": {
+		"number": 332,
+		"prompt": "What’s something that you did as a child or teenager that you miss doing?"
+	},
+	"2022-01-20": {
+		"number": 333,
+		"prompt": "Where is one place you'd never be seen?"
+	},
+	"2022-01-21": {
+		"number": 334,
+		"prompt": "Do you like ice in your drinks?"
+	},
+	"2022-01-24": {
+		"number": 335,
+		"prompt": "For watching or playing, do you have any special \"game day\" rituals?"
+	},
+	"2022-01-25": {
+		"number": 336,
+		"prompt": "What do you do to cool down when it's hot out?"
+	},
+	"2022-01-26": {
+		"number": 337,
+		"prompt": "Do you prefer black or blue inked pens? Or another color?"
+	},
+	"2022-01-27": {
+		"number": 338,
+		"prompt": "What are you hypocritical about?"
+	},
+	"2022-01-28": {
+		"number": 339,
+		"prompt": "Has your car ever ran out of gas? What happened?"
+	},
+	"2022-01-31": {
+		"number": 340,
+		"prompt": "On a scale of 1–10, how good are you at Sudoku?"
+	},
+	"2022-02-01": {
+		"number": 341,
+		"prompt": "Tell us about something that you are still embarrassed about today."
+	},
+	"2022-02-02": {
+		"number": 342,
+		"prompt": "What was the best present you've ever received?"
+	},
+	"2022-02-03": {
+		"number": 343,
+		"prompt": "Have you ever come to a crossroads in your life? What were the two paths?"
+	},
+	"2022-02-04": {
+		"number": 344,
+		"prompt": "If you were out at dinner with no cash, what would you do or say to get the bill paid?"
+	},
+	"2022-02-07": {
+		"number": 345,
+		"prompt": "What's the longest you've ever waited in line for something? What was it?"
 	}
 }
