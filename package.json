@@ -4,6 +4,7 @@
 	"description": "A Slack app for posting prompts to #tell-us-about",
 	"main": "index.js",
 	"scripts": {
+		"dev": "nodemon --watch src --exec ts-node src/index.ts",
 		"format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,md}'",
 		"start": "ts-node src/index.ts",
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -33,6 +34,7 @@
 	},
 	"devDependencies": {
 		"husky": "4.3.8",
+		"nodemon": "2.0.15",
 		"prettier": "2.2.1",
 		"pretty-quick": "3.1.0"
 	},
