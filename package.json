@@ -6,7 +6,7 @@
 	"scripts": {
 		"compile": "tsc",
 		"format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,md}'",
-		"start": "ts-node src/index.ts",
+		"start": "ts-node -r dotenv/config src/index.ts",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {

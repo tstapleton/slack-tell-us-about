@@ -1,5 +1,6 @@
 import Koa from 'koa';
 import Router from '@koa/router';
+import config from './config';
 import { post } from './slack';
 
 const app = new Koa();
@@ -31,4 +32,4 @@ app.use(async (ctx, next) => {
 
 app.use(router.routes());
 
-app.listen(process.env.PORT || 3001);
+app.listen(config.PORT);

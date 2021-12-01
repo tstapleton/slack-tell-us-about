@@ -1,24 +1,15 @@
-import 'dotenv/config';
 import { WebClient, LogLevel } from '@slack/web-api';
 import { readFile } from 'fs/promises';
 import { resolve } from 'path';
+import config from './config';
 
 interface Prompt {
 	number: number;
 	prompt: string;
 }
 
-// agilicious #tell-us-about
-// const channelId = 'C01NDUL2788';
-
-// tradeshift #temp-tua-app
-// const channelId = 'C01PFTFQL4U';
-
-// tradeshift #tell-us-about
-const channelId = 'C01699XLFST';
-
 const FILE = resolve(process.cwd(), './data/prompts.json');
-const client = new WebClient(process.env.SLACK_BOT_TOKEN, {
+const client = new WebClient(config.SLACK_BOT_TOKEN, {
 	logLevel: LogLevel.DEBUG,
 });
 
@@ -50,11 +41,11 @@ export const post = async (): Promise<void> => {
 		}
 
 		await client.chat.postMessage({
-			channel: channelId,
+			channel: config.SLACK_CHANNEL_ID,
 			text: `*${prompt}*`,
 		});
 		await client.conversations.setTopic({
-			channel: channelId,
+			channel: config.SLACK_CHANNEL_ID,
 			topic: `${prompt}`,
 		});
 
