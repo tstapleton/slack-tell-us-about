@@ -2,12 +2,15 @@
 	"name": "slack-tell-us-about",
 	"version": "0.0.1",
 	"description": "A Slack app for posting prompts to #tell-us-about",
-	"main": "index.js",
 	"scripts": {
-		"compile": "tsc",
+		"dev": "nodemon --watch src --exec ts-node src/server.ts",
 		"format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,md}'",
-		"start": "ts-node src/index.ts",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"lint": "eslint src",
+		"prepare": "husky install",
+		"start": "ts-node src/server.ts",
+		"test": "jest --coverage",
+		"test:watch": "jest --watch",
+		"typecheck": "tsc --pretty"
 	},
 	"repository": {
 		"type": "git",
@@ -19,24 +22,33 @@
 	},
 	"homepage": "https://github.com/tstapleton/slack-tell-us-about#readme",
 	"dependencies": {
-		"@koa/router": "10.0.0",
-		"@slack/bolt": "3.2.0",
-		"@slack/web-api": "6.0.0",
-		"@types/koa": "2.11.8",
-		"@types/koa__router": "8.0.4",
-		"dotenv": "8.2.0",
-		"koa": "2.13.1",
-		"ts-node": "9.1.1",
-		"typescript": "4.1.4"
+		"@koa/router": "^10.1.1",
+		"@slack/bolt": "^3.8.1",
+		"@slack/web-api": "^6.5.1",
+		"@tsconfig/node16": "1.0.2",
+		"@types/koa": "^2.13.4",
+		"@types/koa__router": "^8.0.11",
+		"@types/koa-compose": "^3.2.5",
+		"axios": "^0.24.0",
+		"dotenv": "^10.0.0",
+		"koa": "^2.13.4",
+		"koa-compose": "^4.1.0",
+		"ts-node": "^10.4.0",
+		"tsconfig-paths": "3.12.0"
 	},
 	"devDependencies": {
-		"husky": "4.3.8",
-		"prettier": "2.2.1",
-		"pretty-quick": "3.1.0"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "pretty-quick --staged"
-		}
+		"@types/jest": "^27.0.3",
+		"@typescript-eslint/eslint-plugin": "^5.5.0",
+		"@typescript-eslint/parser": "^5.5.0",
+		"eslint": "^8.3.0",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-functional": "^4.0.2",
+		"husky": "^7.0.0",
+		"jest": "^27.4.2",
+		"nodemon": "2.0.15",
+		"prettier": "^2.5.0",
+		"pretty-quick": "^3.1.2",
+		"ts-jest": "^27.0.7",
+		"typescript": "^4.5.2"
 	}
 }
