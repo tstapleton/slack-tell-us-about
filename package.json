@@ -8,7 +8,8 @@
 		"lint": "eslint src",
 		"prepare": "husky install",
 		"start": "ts-node src/server.ts",
-		"test": "jest",
+		"test": "jest --coverage",
+		"test:watch": "jest --watch",
 		"typecheck": "tsc --pretty"
 	},
 	"repository": {
@@ -28,6 +29,7 @@
 		"@types/koa": "^2.13.4",
 		"@types/koa__router": "^8.0.11",
 		"@types/koa-compose": "^3.2.5",
+		"axios": "^0.24.0",
 		"dotenv": "^10.0.0",
 		"koa": "^2.13.4",
 		"koa-compose": "^4.1.0",
