@@ -1,7 +1,7 @@
 import { WebClient, LogLevel } from '@slack/web-api';
 import { readFile } from 'fs/promises';
 import { resolve } from 'path';
-import config from './config';
+import config from 'src/config';
 
 interface Prompt {
 	number: number;

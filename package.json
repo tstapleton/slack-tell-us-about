@@ -4,10 +4,10 @@
 	"description": "A Slack app for posting prompts to #tell-us-about",
 	"main": "index.js",
 	"scripts": {
-		"compile": "tsc",
 		"format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,md}'",
-		"start": "ts-node -r dotenv/config src/index.ts",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "ts-node src/index.ts",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"typecheck": "tsc --pretty"
 	},
 	"repository": {
 		"type": "git",
@@ -22,12 +22,14 @@
 		"@koa/router": "10.0.0",
 		"@slack/bolt": "3.2.0",
 		"@slack/web-api": "6.0.0",
+		"@tsconfig/node16": "1.0.2",
 		"@types/koa": "2.11.8",
 		"@types/koa__router": "8.0.4",
 		"dotenv": "8.2.0",
 		"koa": "2.13.1",
 		"ts-node": "9.1.1",
-		"typescript": "4.1.4"
+		"tsconfig-paths": "3.12.0",
+		"typescript": "4.5.2"
 	},
 	"devDependencies": {
 		"husky": "4.3.8",

@@ -1,18 +1,17 @@
 {
+	"extends": "@tsconfig/node16/tsconfig.json",
 	"compilerOptions": {
-		"allowJs": true,
-		"allowSyntheticDefaultImports": true,
-		"esModuleInterop": true,
-		"forceConsistentCasingInFileNames": true,
-		"isolatedModules": true,
-		"lib": ["esnext"],
-		"module": "commonjs",
-		"moduleResolution": "node",
+		"baseUrl": ".",
 		"noEmit": true,
-		"resolveJsonModule": true,
-		"skipLibCheck": true,
-		"strict": true,
-		"target": "es5"
+		"paths": {
+			"src/*": ["src/*"]
+		},
+		"resolveJsonModule": true
 	},
-	"include": ["src"]
+	"include": ["src"],
+	"ts-node": {
+		"files": true,
+		"require": ["tsconfig-paths/register", "dotenv/config"],
+		"transpileOnly": true
+	}
 }

@@ -1,7 +1,7 @@
 import Koa from 'koa';
 import Router from '@koa/router';
-import config from './config';
-import { post } from './slack';
+import config from 'src/config';
+import { post } from 'src/slack';
 
 const app = new Koa();
 const router = new Router();
@@ -14,11 +14,10 @@ router.post('/post', async (ctx) => {
 app.use(async (ctx, next) => {
 	try {
 		await next();
-	} catch (error) {
-		ctx.status = error.statusCode || error.status || 500;
-		ctx.body = {
-			message: error.message,
-		};
+	} catch (e) {
+		const error = e as Error;
+		ctx.body = { error: error.message };
+		ctx.status = 500;
 		console.error(error);
 	}
 });
