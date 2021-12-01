@@ -21,7 +21,7 @@
 	},
 	"2021-04-12": {
 		"number": 130,
-		"prompt": "What would you do if we started a 20% time? https://en.wikipedia.org/wiki/20%25_Project"
+		"prompt": "What would you do if we started a 20% time? <https://en.wikipedia.org/wiki/20%25_Project>"
 	},
 	"2021-04-13": {
 		"number": 131,
@@ -225,7 +225,7 @@
 	},
 	"2021-06-22": {
 		"number": 181,
-		"prompt": "How are you making the boat go faster? Context: https://www.youtube.com/watch?v=VlTfbGemGcM"
+		"prompt": "How are you making the boat go faster? Context: <https://www.youtube.com/watch?v=VlTfbGemGcM>"
 	},
 	"2021-06-23": {
 		"number": 182,
@@ -665,7 +665,7 @@
 	},
 	"2021-11-23": {
 		"number": 291,
-		"prompt": "What is your personality type? Feel free to describe yourself in your own words or there are many tests out there, e.g. http://www.16personalities.com/free-personality-test."
+		"prompt": "What is your personality type? Feel free to describe yourself in your own words or there are many tests out there, e.g. <http://www.16personalities.com/free-personality-test>."
 	},
 	"2021-11-24": {
 		"number": 292,
