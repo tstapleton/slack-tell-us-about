@@ -1,9 +1,9 @@
 /* eslint-disable functional/immutable-data */
 
 import axios from 'axios';
-import * as subject from 'src/util/pirate';
+import * as subject from 'src/services/pirate';
 
-describe('util/quote', () => {
+describe('services/quote', () => {
 	describe('getQuote', () => {
 		test('should return the quote when it can get the page', async () => {
 			const template = '<html><body><h2 class="some class">Shiver me timbers</h2><body></html>';

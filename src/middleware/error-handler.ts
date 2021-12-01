@@ -2,7 +2,7 @@
 
 import { Context } from 'koa';
 import { Middleware } from 'koa-compose';
-import { ApiError } from 'src/util/error';
+import { ApiError } from 'src/error';
 
 const defaultErrorHandler = async (ctx: Context, next: () => Promise<void>): Promise<void> => {
 	try {

@@ -1,6 +1,6 @@
 import Router from '@koa/router';
 import * as controllers from 'src/controllers';
-import { ApiError } from 'src/util/error';
+import { ApiError } from 'src/error';
 
 const router = new Router();
 

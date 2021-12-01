@@ -1,7 +1,8 @@
 /* eslint-disable functional/immutable-data, @typescript-eslint/prefer-readonly-parameter-types */
 
 import Koa from 'koa';
-import { post } from 'src/slack';
+import { getPrompt } from 'src/services/prompts';
+import { postPromptToSlack } from 'src/services/slack';
 
 export async function getHealth(ctx: Koa.Context): Promise<void> {
 	ctx.status = 200;
@@ -9,7 +10,8 @@ export async function getHealth(ctx: Koa.Context): Promise<void> {
 }
 
 export async function postPrompt(ctx: Koa.Context): Promise<void> {
-	await post();
+	const prompt = await getPrompt();
+	await postPromptToSlack(prompt);
 
 	ctx.status = 200;
 	ctx.body = 'OK';

@@ -1,11 +1,12 @@
 import app from 'src/app';
-import config from 'src/config';
-import { getQuote } from 'src/util/pirate';
+import config from 'src/services/config';
+import logger from 'src/services/logger';
+import { getQuote } from 'src/services/pirate';
 
 app.listen(config.PORT, async () => {
-	console.info(`Running on http://localhost:${config.PORT}`);
+	logger.info(`Running on http://localhost:${config.PORT}`);
 	const quote = await getQuote();
-	console.info(quote);
+	logger.info(quote);
 });
 
 process.on('unhandledRejection', (error: Readonly<Error>) => {
@@ -15,6 +16,6 @@ process.on('unhandledRejection', (error: Readonly<Error>) => {
 
 process.on('uncaughtException', (error: Readonly<Error>) => {
 	// received an error that wasn't handled, we'll capture it and restart
-	console.error(error);
+	logger.error(error);
 	process.exit(1);
 });

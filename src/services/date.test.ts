@@ -1,6 +1,6 @@
-import * as subject from 'src/util/date';
+import * as subject from 'src/services/date';
 
-describe('util/date', () => {
+describe('services/date', () => {
 	describe('formatDate', () => {
 		test('should return the formatted date', () => {
 			// month is 0-indexed
