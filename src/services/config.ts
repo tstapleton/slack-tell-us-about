@@ -1,4 +1,4 @@
-const keys = ['PORT', 'SLACK_BOT_TOKEN', 'SLACK_CHANNEL_ID', 'SLACK_SIGNING_SECRET'] as const;
+const keys = ['PORT', 'SLACK_BOT_TOKEN', 'SLACK_CHANNEL_ID'] as const;
 
 type Config = Record<typeof keys[number], string>;
 

@@ -7,11 +7,9 @@ set -e
 # tracing prints each line of the script as it executes
 set -x
 
-HEROKU_HOST="guarded-eyrie-86246.herokuapp.com"
-LOCALHOST="localhost:${PORT}"
-HOST=${HEROKU_HOST:=${LOCALHOST}}
+HOST=$([ "${HEROKU_APP_NAME}" ] && echo "${HEROKU_APP_NAME}.herokuapp.com" || echo "localhost:${PORT}")
 
 echo ""
 echo "Calling service at ${HOST} to post to Slack..."
-curl -X POST ${HOST}/post
+curl -X POST ${HOST}/rest/post
 echo "Done"
