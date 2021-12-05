@@ -1,0 +1,14 @@
+name: Main
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    uses: tstapleton/slack-tell-us-about/.github/workflows/heroku.yml@main
+    with:
+      branch: main
+    secrets:
+      HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+      HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME_PROD }}
+      HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}
