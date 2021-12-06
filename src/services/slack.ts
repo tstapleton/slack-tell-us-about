@@ -6,17 +6,23 @@ const client = new WebClient(config.SLACK_BOT_TOKEN, {
 	logLevel: LogLevel.DEBUG,
 });
 
-export async function postPromptToSlack(prompt?: Readonly<string>): Promise<void> {
+export async function postPromptToSlack(channel: string, prompt?: Readonly<string>): Promise<void> {
+	if (!channel) {
+		logger.error('No channel provided');
+		return;
+	}
+
 	if (!prompt) {
+		logger.error('No prompt provided');
 		return;
 	}
 
 	await client.chat.postMessage({
-		channel: config.SLACK_CHANNEL_ID,
+		channel,
 		text: `*${prompt}*`,
 	});
 	await client.conversations.setTopic({
-		channel: config.SLACK_CHANNEL_ID,
+		channel,
 		topic: `${prompt}`,
 	});
 
