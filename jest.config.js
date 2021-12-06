@@ -2,10 +2,10 @@ module.exports = {
 	collectCoverageFrom: ['src/**/*.ts'],
 	coverageThreshold: {
 		global: {
-			branches: 57,
+			branches: 41,
 			functions: 29,
-			lines: 34,
-			statements: 34,
+			lines: 36,
+			statements: 35,
 		},
 	},
 	moduleNameMapper: {
