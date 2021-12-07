@@ -23,7 +23,7 @@ jobs:
         run: npm test
   deploy:
     needs: [build]
-    uses: tstapleton/slack-tell-us-about/.github/workflows/heroku.yml@tst/deploy
+    uses: tstapleton/slack-tell-us-about/.github/workflows/heroku.yml@main
     with:
       branch: ${{ github.head_ref }}
     secrets:
