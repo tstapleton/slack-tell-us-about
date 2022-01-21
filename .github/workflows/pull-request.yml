@@ -28,5 +28,5 @@ jobs:
       branch: ${{ github.head_ref }}
     secrets:
       HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-      HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME_TEST }}
+      HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME_STAGING }}
       HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}

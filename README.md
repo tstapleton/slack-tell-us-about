@@ -4,7 +4,7 @@ Slack app for #tell-us-about
 
 ## Deploy
 
-This app is deployed to Heroku using a GitHub Action. The steps below describe the one-time setup needed to enable deploys.
+This app is deployed to Heroku using a GitHub Action. The steps below describe the one-time setup needed to enable deploys. [Multiple Heroku environments](https://devcenter.heroku.com/articles/multiple-environments) will be used to create separate staging and production environments.
 
 1. Install the Heroku CLI as described in their [docs](https://devcenter.heroku.com/articles/heroku-cli#download-and-install).
 
@@ -24,25 +24,42 @@ Logging in... done
 Logged in as me@example.com
 ```
 
-3. Create a new app on Heroku as described in their [docs](https://devcenter.heroku.com/articles/creating-apps).
+3. [Create a new app](https://devcenter.heroku.com/articles/creating-apps) on Heroku as described in their [docs](https://devcenter.heroku.com/articles/multiple-environments#creating-a-staging-environment).
 
 ```console
-me@host:~/code/slack-tell-us-about$ heroku create
+me@host:~/code/slack-tell-us-about$ heroku create --remote staging
 Creating app... done, ⬢ fast-headland-20836
 https://fast-headland-20836.herokuapp.com/ | https://git.heroku.com/fast-headland-20836.git
+Git remote staging added
 ```
 
-4. Get your Heroku API key to set it as an Action Secret in GitHub.
+4. Create the production environment as described in their [docs](https://devcenter.heroku.com/articles/multiple-environments#creating-a-production-environment).
+
+```console
+me@host:~/code/slack-tell-us-about$ heroku create --remote production
+Creating app... done, ⬢ fierce-ice-327
+http://fierce-ice-327.heroku.com/ | https://git.heroku.com/fierce-ice-327.git
+Git remote production added
+```
+
+5. Set staging as the default environment as described in their [docs](https://devcenter.heroku.com/articles/multiple-environments#specifying-an-environment-with-the-heroku-cli).
+
+```console
+me@host:~/code/slack-tell-us-about$ git config heroku.remote staging
+```
+
+6. Get your Heroku API key to set it as an Action Secret in GitHub.
 
 ```console
 me@host:~/code/slack-tell-us-about$ less ~/.netrc | grep password | uniq | sed 's/^  password //'
 ***YOUR API KEY***
 ```
 
-5. Create three secrets in GitHub as described in their [docs](https://docs.github.com/en/actions/security-guides/encrypted-secrets).
+7. Create three secrets in GitHub as described in their [docs](https://docs.github.com/en/actions/security-guides/encrypted-secrets).
 
-- `HEROKU_API_KEY`: the API key for making requests to Heroku, the output of step 4
-- `HEROKU_APP_NAME`: the name of the app on Heroku, the output of step 3
+- `HEROKU_API_KEY`: the API key for making requests to Heroku, the output of step 6
+- `HEROKU_APP_NAME_STAGING`: the name of the _staging_ app on Heroku, the output of step 3
+- `HEROKU_APP_NAME_PRODUCTION`: the name of the _production_ app on Heroku, the output of step 4
 - `HEROKU_EMAIL`: the email address used for Heroku
 
 ## Running
