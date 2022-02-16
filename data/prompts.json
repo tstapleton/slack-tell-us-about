@@ -1378,5 +1378,1353 @@
 	"2022-02-07": {
 		"number": 345,
 		"prompt": "What's the longest you've ever waited in line for something? What was it?"
+	},
+	"2022-02-17": {
+		"number": 346,
+		"prompt": "Have you ever broken the law and didn’t get caught, if so how?"
+	},
+	"2022-02-18": {
+		"number": 347,
+		"prompt": "How do you prepare for the start of the work week? What secret weapon do you use to help you? e.g. a Friday afternoon/Monday morning look ahead, a preparation list on Sunday evening, etc."
+	},
+	"2022-02-21": {
+		"number": 348,
+		"prompt": "What books are you currently reading?"
+	},
+	"2022-02-22": {
+		"number": 349,
+		"prompt": "What did you learn in your first year working that still holds true today?"
+	},
+	"2022-02-23": {
+		"number": 350,
+		"prompt": "Describe your week in a giphy."
+	},
+	"2022-02-24": {
+		"number": 351,
+		"prompt": "What are your favorite podcasts? Are there particular episodes you’d recommend?"
+	},
+	"2022-02-25": {
+		"number": 352,
+		"prompt": "You’re having a sucky day. What music do you put on?"
+	},
+	"2022-02-28": {
+		"number": 353,
+		"prompt": "Happy Monday! In what ways do you want this week to be different than last week?"
+	},
+	"2022-03-01": {
+		"number": 354,
+		"prompt": "Tell us a song lyric that described your weekend."
+	},
+	"2022-03-02": {
+		"number": 355,
+		"prompt": "What book should everyone read?"
+	},
+	"2022-03-03": {
+		"number": 356,
+		"prompt": "What are you most looking forward to this week?"
+	},
+	"2022-03-04": {
+		"number": 357,
+		"prompt": "When the UFO lands, are you more excited or frightened? Why?"
+	},
+	"2022-03-07": {
+		"number": 358,
+		"prompt": "Do you like or dislike public speaking? Why? Have you always felt that way?"
+	},
+	"2022-03-08": {
+		"number": 359,
+		"prompt": "We are all working remotely these days, and likely will be for a while. If you could live anywhere for a year, where would that be? And what’s stopping you from doing that?"
+	},
+	"2022-03-09": {
+		"number": 360,
+		"prompt": "Share a favorite song from a different era of your life."
+	},
+	"2022-03-10": {
+		"number": 361,
+		"prompt": "What’s your favorite joke?"
+	},
+	"2022-03-11": {
+		"number": 362,
+		"prompt": "WHEN IS IT APPROPRIATE TO USE ALL CAPS?!?!"
+	},
+	"2022-03-14": {
+		"number": 363,
+		"prompt": "Tell us a song lyric that describes what you want to be doing now."
+	},
+	"2022-03-15": {
+		"number": 364,
+		"prompt": "What’s the best piece of advice you can offer someone new to your industry? (assume “run away!” is not an option)"
+	},
+	"2022-03-16": {
+		"number": 365,
+		"prompt": "What do you like best about your job?"
+	},
+	"2022-03-17": {
+		"number": 366,
+		"prompt": "What did you learn this week?"
+	},
+	"2022-03-18": {
+		"number": 367,
+		"prompt": "What was your first job? How'd you get it? How'd you do?"
+	},
+	"2022-03-21": {
+		"number": 368,
+		"prompt": "What's your favorite thing on your desk? Why? Bonus points for a picture."
+	},
+	"2022-03-22": {
+		"number": 369,
+		"prompt": "How do you get uninterrupted blocks of time to do work?"
+	},
+	"2022-03-23": {
+		"number": 370,
+		"prompt": "Do you have any plans for the weekend?"
+	},
+	"2022-03-24": {
+		"number": 371,
+		"prompt": "What was your favorite toy growing up?"
+	},
+	"2022-03-25": {
+		"number": 372,
+		"prompt": "What would you do if you had a Snow Day, today? No remote working, no calling in to meetings — a real old fashioned Snow Day."
+	},
+	"2022-03-28": {
+		"number": 373,
+		"prompt": "You win a lifetime supply of a single thing, what would it be? And why?"
+	},
+	"2022-03-29": {
+		"number": 374,
+		"prompt": "Describe your weekend. Emojis only."
+	},
+	"2022-03-30": {
+		"number": 375,
+		"prompt": "Is there anything you collect? e.g. ornamental spoons, magnets from places you vacation at, coins, etc."
+	},
+	"2022-03-31": {
+		"number": 376,
+		"prompt": "Many of us have been spending more time where we live recently. What's the best improvement you've made to make your life at home more pleasant?"
+	},
+	"2022-04-01": {
+		"number": 377,
+		"prompt": "What’s the most important element to a really successful workday?"
+	},
+	"2022-04-04": {
+		"number": 378,
+		"prompt": "Breakfast: most important meal of the day, or overrated also-ran meal? How do you fuel up for the day?"
+	},
+	"2022-04-05": {
+		"number": 379,
+		"prompt": "What’s your favorite winter/holiday dish?"
+	},
+	"2022-04-06": {
+		"number": 380,
+		"prompt": "First concert? Best concert?"
+	},
+	"2022-04-07": {
+		"number": 381,
+		"prompt": "What’s a good habit you’ve picked up that wasn’t easy to build?"
+	},
+	"2022-04-08": {
+		"number": 382,
+		"prompt": "What was the first physical music album (CD / cassette / 8-track / vinyl / etc) you ever bought? Would you still listen to it today?"
+	},
+	"2022-04-11": {
+		"number": 383,
+		"prompt": "Tell us about a piece of art on your wall."
+	},
+	"2022-04-12": {
+		"number": 384,
+		"prompt": "What is your favorite meeting of the week? Why is it your favorite?"
+	},
+	"2022-04-13": {
+		"number": 385,
+		"prompt": "Have you ever locked yourself out of your house and had to break in?"
+	},
+	"2022-04-14": {
+		"number": 386,
+		"prompt": "What’s your favorite emoji?"
+	},
+	"2022-04-15": {
+		"number": 387,
+		"prompt": "What’s one project at work you really wish you could make time to work on, but never seem to have the chance?"
+	},
+	"2022-04-18": {
+		"number": 388,
+		"prompt": "What things do you think are important to do every day?"
+	},
+	"2022-04-19": {
+		"number": 389,
+		"prompt": "Share a song that makes you feel better?"
+	},
+	"2022-04-20": {
+		"number": 390,
+		"prompt": "What's your favorite way to waste time on the internet?"
+	},
+	"2022-04-21": {
+		"number": 391,
+		"prompt": "What’s your favorite season? Why?"
+	},
+	"2022-04-22": {
+		"number": 392,
+		"prompt": "Your out-of-town friends come to visit. What’s one place you would take them? (Assume we are still living in pre-covid times.)"
+	},
+	"2022-04-25": {
+		"number": 393,
+		"prompt": "What is your big rock - the main, focused project - that you’re trying to move this week?"
+	},
+	"2022-04-26": {
+		"number": 394,
+		"prompt": "What’s worse: early Monday morning meetings or late Friday afternoon meetings? Why do you think so?"
+	},
+	"2022-04-27": {
+		"number": 395,
+		"prompt": "If you had complete control over your work schedule, what would an ideal day look like? hours/activities/etc."
+	},
+	"2022-04-28": {
+		"number": 396,
+		"prompt": "Do you have any mental models you find either particularly useful, or which appears frequently in your work or life?"
+	},
+	"2022-04-29": {
+		"number": 397,
+		"prompt": "How are you sleeping these days? Do you have an intentional routine that’s important for getting rest?"
+	},
+	"2022-05-02": {
+		"number": 398,
+		"prompt": "Describe a typical work day using emojis."
+	},
+	"2022-05-03": {
+		"number": 399,
+		"prompt": "Do something you haven’t done in a while. What did you do? How did it go?"
+	},
+	"2022-05-04": {
+		"number": 400,
+		"prompt": "Do you have an emergency supplies kit, either at home or at work? What is in it? How did you decide?"
+	},
+	"2022-05-05": {
+		"number": 401,
+		"prompt": "Think back to when you used to go trick or treating. What was the best treat receive? The worst?"
+	},
+	"2022-05-06": {
+		"number": 402,
+		"prompt": "What do you do to prepare for work-crisis situations? Have you had occasion yet to find out whether it works? Does it?"
+	},
+	"2022-05-09": {
+		"number": 403,
+		"prompt": "Tell us two truths and one lie. Label each with an emoji so people can vote. Come back tomorrow and tell us the answer in the thread :thread:."
+	},
+	"2022-05-10": {
+		"number": 404,
+		"prompt": "Did you eat anything good last week? Care to share a picture or recipe?"
+	},
+	"2022-05-11": {
+		"number": 405,
+		"prompt": "What do you most look forward to in the winter?"
+	},
+	"2022-05-12": {
+		"number": 406,
+		"prompt": "What is one repeating problem you can automate or eliminate today?"
+	},
+	"2022-05-13": {
+		"number": 407,
+		"prompt": "Have you been impacted by a natural disaster? Tell us about it."
+	},
+	"2022-05-16": {
+		"number": 408,
+		"prompt": "What's your favorite autumn-y drink?"
+	},
+	"2022-05-17": {
+		"number": 409,
+		"prompt": "Do you take naps? Would you take naps if you could?"
+	},
+	"2022-05-18": {
+		"number": 410,
+		"prompt": "Do you dress up your pet in clothing? Share a picture."
+	},
+	"2022-05-19": {
+		"number": 411,
+		"prompt": "What is your favorite sports team and why?"
+	},
+	"2022-05-20": {
+		"number": 412,
+		"prompt": "Do you have any stickers on your laptop? Post a pic."
+	},
+	"2022-05-23": {
+		"number": 413,
+		"prompt": "Tell us something about the house you grew up in?"
+	},
+	"2022-05-24": {
+		"number": 414,
+		"prompt": "If we are ever in a position to recreate the T-Rex, should we do it?"
+	},
+	"2022-05-25": {
+		"number": 415,
+		"prompt": "How’s the week going for you? What’s going well? What’s not going so well? What can you do to make the rest of the week better?"
+	},
+	"2022-05-26": {
+		"number": 416,
+		"prompt": "What costume would you wear if you had every costume possibly in existence arrayed in front of you for your choice and you had to choose one?"
+	},
+	"2022-05-27": {
+		"number": 417,
+		"prompt": "Do you have a favorite short form piece of writing you think is worth sharing? Could be a blog post, short story, article, or anything else really."
+	},
+	"2022-05-30": {
+		"number": 418,
+		"prompt": "Tell us about your favorite pet."
+	},
+	"2022-05-31": {
+		"number": 419,
+		"prompt": "If you had to go for a swim in a food, which food would it be?"
+	},
+	"2022-06-01": {
+		"number": 420,
+		"prompt": "Most overrated and underrated candy?"
+	},
+	"2022-06-02": {
+		"number": 421,
+		"prompt": "If you could travel back in time (and you had to stay there), what period would you visit?"
+	},
+	"2022-06-03": {
+		"number": 422,
+		"prompt": "Do you usually put up decorations for Halloween? Are you doing anything different this year?"
+	},
+	"2022-06-06": {
+		"number": 423,
+		"prompt": "How many browser tabs do you have open right now?"
+	},
+	"2022-06-07": {
+		"number": 424,
+		"prompt": "If you ran #tell-us-about for a day, what would you ask people to #tell-us-about?"
+	},
+	"2022-06-08": {
+		"number": 425,
+		"prompt": "If you could only use three condiments for the rest of your life, what would they be?"
+	},
+	"2022-06-09": {
+		"number": 426,
+		"prompt": "You’ve made enough money that you don’t need to work. But you still want to. What would you do?"
+	},
+	"2022-06-10": {
+		"number": 427,
+		"prompt": "What TV show or movie would you recommend we watch?"
+	},
+	"2022-06-13": {
+		"number": 428,
+		"prompt": "What did you do over the weekend?"
+	},
+	"2022-06-14": {
+		"number": 429,
+		"prompt": "How do you stay in shape while working from home?"
+	},
+	"2022-06-15": {
+		"number": 430,
+		"prompt": "Using only emojis, tell us about a memorable conversation you had recently."
+	},
+	"2022-06-16": {
+		"number": 431,
+		"prompt": "Do you have any smart home devices? How / why did you start using them? How are they working out for you? Anything you want to make smart that you haven’t yet?"
+	},
+	"2022-06-17": {
+		"number": 432,
+		"prompt": "If you could travel back in time (and could later return to the present), what period would you visit?"
+	},
+	"2022-06-20": {
+		"number": 433,
+		"prompt": "What was your first computer? What did you do with it?"
+	},
+	"2022-06-21": {
+		"number": 434,
+		"prompt": "Any plans this weekend? Tell us. Emojis only."
+	},
+	"2022-06-22": {
+		"number": 435,
+		"prompt": "What do you most look forward to in the summer?"
+	},
+	"2022-06-23": {
+		"number": 436,
+		"prompt": "Share a picture of what you’re doing?"
+	},
+	"2022-06-24": {
+		"number": 437,
+		"prompt": "How much do you usually get? Is it enough?"
+	},
+	"2022-06-27": {
+		"number": 438,
+		"prompt": "What’s your favorite place you’ve visited?"
+	},
+	"2022-06-28": {
+		"number": 439,
+		"prompt": "If you did not have to sleep, how would you spend the extra 8 hours?"
+	},
+	"2022-06-29": {
+		"number": 440,
+		"prompt": "What would you tell your January 1, 2020-self?"
+	},
+	"2022-06-30": {
+		"number": 441,
+		"prompt": "Recommend literally anything."
+	},
+	"2022-07-01": {
+		"number": 442,
+		"prompt": "Have you ever done monthly challenges? How did they go?"
+	},
+	"2022-07-04": {
+		"number": 443,
+		"prompt": "Describe how your weekend went. Emojis only."
+	},
+	"2022-07-05": {
+		"number": 444,
+		"prompt": "What’s your favorite holiday song / album / playlist?"
+	},
+	"2022-07-06": {
+		"number": 445,
+		"prompt": "Think back to your life 10 - 20 years ago. What was your favorite piece of technology? How did it affect your life and how much have things changed since then?"
+	},
+	"2022-07-07": {
+		"number": 446,
+		"prompt": "Tell us something a colleague of yours did recently that you thought was great?"
+	},
+	"2022-07-08": {
+		"number": 447,
+		"prompt": "Share a picture of the scene outside your home office window."
+	},
+	"2022-07-11": {
+		"number": 448,
+		"prompt": "What's your goal for the day?"
+	},
+	"2022-07-12": {
+		"number": 449,
+		"prompt": "What will you do this week that you didn't do last week?"
+	},
+	"2022-07-13": {
+		"number": 450,
+		"prompt": "Is moving to a new country something you have done, have considered, or is it off the table? Why?"
+	},
+	"2022-07-14": {
+		"number": 451,
+		"prompt": "What do you spend the most time thinking about?"
+	},
+	"2022-07-15": {
+		"number": 452,
+		"prompt": "What is one thing you are snobby about?"
+	},
+	"2022-07-18": {
+		"number": 453,
+		"prompt": "At some point in your career you did something and thought, \"That was cool! I rocked it!\" Tell us about it."
+	},
+	"2022-07-19": {
+		"number": 454,
+		"prompt": "What would be your first question after waking up from being cryogenically frozen for 100 years?"
+	},
+	"2022-07-20": {
+		"number": 455,
+		"prompt": "What are some of your favorite games to play?"
+	},
+	"2022-07-21": {
+		"number": 456,
+		"prompt": "What’s your favorite drink?"
+	},
+	"2022-07-22": {
+		"number": 457,
+		"prompt": "What do you folks think our jobs will be like in 20-25 years time? Will humans be replaced entirely? Will we still have jobs?"
+	},
+	"2022-07-25": {
+		"number": 458,
+		"prompt": "Have you taken a holiday this year? Do you have a plan for one?"
+	},
+	"2022-07-26": {
+		"number": 459,
+		"prompt": "What is the longest you've been offline?"
+	},
+	"2022-07-27": {
+		"number": 460,
+		"prompt": "What is the potential problem that worries you most right now?"
+	},
+	"2022-07-28": {
+		"number": 461,
+		"prompt": "What is something you would rename? Could be anything, a restaurant, a country."
+	},
+	"2022-07-29": {
+		"number": 462,
+		"prompt": "What music do you play at work?"
+	},
+	"2022-08-01": {
+		"number": 463,
+		"prompt": "How do you setup your phone home screen? Share a picture."
+	},
+	"2022-08-02": {
+		"number": 464,
+		"prompt": "What piece of entertainment do you wish you could erase from your mind so that you could experience it for the first time again?"
+	},
+	"2022-08-03": {
+		"number": 465,
+		"prompt": "Are you usually early or late to appointments?"
+	},
+	"2022-08-04": {
+		"number": 466,
+		"prompt": "What was the best work-related prank/gag you pulled?"
+	},
+	"2022-08-05": {
+		"number": 467,
+		"prompt": "How do you learn best? Do you have any tips / tricks to make picking up new things easier?"
+	},
+	"2022-08-08": {
+		"number": 468,
+		"prompt": "What's your favorite Slack channel, and why? (Not including this one.)"
+	},
+	"2022-08-09": {
+		"number": 469,
+		"prompt": "You have a free pass to introduce an item, practice, or benefit to your team permanently. What is it?"
+	},
+	"2022-08-10": {
+		"number": 470,
+		"prompt": "What was your best / worst camping trip?"
+	},
+	"2022-08-11": {
+		"number": 471,
+		"prompt": "What have you said no to recently? What were the consequences? How did it make you feel?"
+	},
+	"2022-08-12": {
+		"number": 472,
+		"prompt": "Cal Newport's philosophy (outlined in Deep Work), is all about finding ways and means to create great focus, to do what he calls Deep Work. If and when you're able to carve out time for the kind of laser focus, what does your Deep Work consist of? What specifically would you do during that time of focus?"
+	},
+	"2022-08-15": {
+		"number": 473,
+		"prompt": "What makes you feel super awkward?"
+	},
+	"2022-08-16": {
+		"number": 474,
+		"prompt": "How would you describe the meeting culture in your team? Are you cool with that? What is your favorite alternative to scheduling a meeting?"
+	},
+	"2022-08-17": {
+		"number": 475,
+		"prompt": "How’s the weather where you are? Even better if you have a picture."
+	},
+	"2022-08-18": {
+		"number": 476,
+		"prompt": "Quiet time. Our schedules are often packed with meetings. How do you get quiet time alone to just step back and think?"
+	},
+	"2022-08-19": {
+		"number": 477,
+		"prompt": "Name one process that stops you from getting things done fast."
+	},
+	"2022-08-22": {
+		"number": 478,
+		"prompt": "What's your favorite interview question to ask or answer?"
+	},
+	"2022-08-23": {
+		"number": 479,
+		"prompt": "Share a picture you took that you really like."
+	},
+	"2022-08-24": {
+		"number": 480,
+		"prompt": "What’s the best thing that happened to you last week?"
+	},
+	"2022-08-25": {
+		"number": 481,
+		"prompt": "Where are you planning to go for your next vacation?"
+	},
+	"2022-08-26": {
+		"number": 482,
+		"prompt": "What’s your favorite way to spend time outdoors?"
+	},
+	"2022-08-29": {
+		"number": 483,
+		"prompt": "If you had all the time and energy and money and equipment and help you needed, what personal project would you launch?"
+	},
+	"2022-08-30": {
+		"number": 484,
+		"prompt": "What emoji would your team or coworkers choose to represent you and why?"
+	},
+	"2022-08-31": {
+		"number": 485,
+		"prompt": "Without using the title of your job, tell me what you do."
+	},
+	"2022-09-01": {
+		"number": 486,
+		"prompt": "What would you do if we started a 20% time? <https://en.wikipedia.org/wiki/20%25_Project>"
+	},
+	"2022-09-02": {
+		"number": 487,
+		"prompt": "Can you swim? How did you learn?"
+	},
+	"2022-09-05": {
+		"number": 488,
+		"prompt": "What has made you smile in the past 24 hours?"
+	},
+	"2022-09-06": {
+		"number": 489,
+		"prompt": "What desktop / smartphone / tablet app do you use that you are surprised more folk don't know about?"
+	},
+	"2022-09-07": {
+		"number": 490,
+		"prompt": "What does your work schedule look like for the next 2 weeks? How much is dedicated to meetings? What sort of meetings? Why is that the right/wrong balance for now?"
+	},
+	"2022-09-08": {
+		"number": 491,
+		"prompt": "What could you give a 40-minute presentation on with absolutely no preparation?"
+	},
+	"2022-09-09": {
+		"number": 492,
+		"prompt": "What did you last Google for?"
+	},
+	"2022-09-12": {
+		"number": 493,
+		"prompt": "What do you do when you're bored?"
+	},
+	"2022-09-13": {
+		"number": 494,
+		"prompt": "Read for 30 minutes today. What did you read about?"
+	},
+	"2022-09-14": {
+		"number": 495,
+		"prompt": "What would you do if you had Friday's off for the summer?"
+	},
+	"2022-09-15": {
+		"number": 496,
+		"prompt": "What did you do this week that you're proud of?"
+	},
+	"2022-09-16": {
+		"number": 497,
+		"prompt": "What other position do you believe you could fill at work if not your own?"
+	},
+	"2022-09-19": {
+		"number": 498,
+		"prompt": "What skills would you like to develop right now?"
+	},
+	"2022-09-20": {
+		"number": 499,
+		"prompt": "Share a picture of your child / pet / something else important."
+	},
+	"2022-09-21": {
+		"number": 500,
+		"prompt": "What’s motivating for you right now?"
+	},
+	"2022-09-22": {
+		"number": 501,
+		"prompt": "Share a pic of what you're doing."
+	},
+	"2022-09-23": {
+		"number": 502,
+		"prompt": "If you were dictator of a small island nation, what crazy dictator stuff would you do?"
+	},
+	"2022-09-26": {
+		"number": 503,
+		"prompt": "Do you live close to your family? How often do you see them?"
+	},
+	"2022-09-27": {
+		"number": 504,
+		"prompt": "What’s a book you’ve been meaning to read, but haven't yet?"
+	},
+	"2022-09-28": {
+		"number": 505,
+		"prompt": "What did you accomplish yesterday? Did you achieve your goal?"
+	},
+	"2022-09-29": {
+		"number": 506,
+		"prompt": "What’s your go to casino game?"
+	},
+	"2022-09-30": {
+		"number": 507,
+		"prompt": "Which book did you read in college or high school that was actually interesting enough that you still think or talk about it sometimes?"
+	},
+	"2022-10-03": {
+		"number": 508,
+		"prompt": "What would you do if you were given one billion dollars?"
+	},
+	"2022-10-04": {
+		"number": 509,
+		"prompt": "What was the best birthday you ever had? Why?"
+	},
+	"2022-10-05": {
+		"number": 510,
+		"prompt": "What outdoor activity haven't you tried, but would like to?"
+	},
+	"2022-10-06": {
+		"number": 511,
+		"prompt": "What apps can you not live without?"
+	},
+	"2022-10-07": {
+		"number": 512,
+		"prompt": "What's your favorite thing about the city / town you live in?"
+	},
+	"2022-10-10": {
+		"number": 513,
+		"prompt": "What irrational fear do you have?"
+	},
+	"2022-10-11": {
+		"number": 514,
+		"prompt": "How do you carve out time to watch videos, read books and otherwise focus on your own development?"
+	},
+	"2022-10-12": {
+		"number": 515,
+		"prompt": "What would your perfect room look like?"
+	},
+	"2022-10-13": {
+		"number": 516,
+		"prompt": "You start your day and suddenly find all meetings cancelled, scheduled discussions delayed, etc, freeing up your entire day. How would you use this time?"
+	},
+	"2022-10-14": {
+		"number": 517,
+		"prompt": "How are you making the boat go faster? Context: <https://www.youtube.com/watch?v=VlTfbGemGcM>"
+	},
+	"2022-10-17": {
+		"number": 518,
+		"prompt": "What's the last thing that changed your mind?"
+	},
+	"2022-10-18": {
+		"number": 519,
+		"prompt": "What do you wish you were better at?"
+	},
+	"2022-10-19": {
+		"number": 520,
+		"prompt": "What one talk/video would you recommend we watch?"
+	},
+	"2022-10-20": {
+		"number": 521,
+		"prompt": "What are you good at?"
+	},
+	"2022-10-21": {
+		"number": 522,
+		"prompt": "What activity do you wish you could add to your daily work day, or make more time for? What do you wish you could eliminate?"
+	},
+	"2022-10-24": {
+		"number": 523,
+		"prompt": "You are in an elevator and a stranger asks what you do. What do you tell them?"
+	},
+	"2022-10-25": {
+		"number": 524,
+		"prompt": "Tell us a song lyric that describes how you feel right now."
+	},
+	"2022-10-26": {
+		"number": 525,
+		"prompt": "What do you want to do when you retire?"
+	},
+	"2022-10-27": {
+		"number": 526,
+		"prompt": "What do you buy way more of than most people?"
+	},
+	"2022-10-28": {
+		"number": 527,
+		"prompt": "What books do you re-read? Why?"
+	},
+	"2022-10-31": {
+		"number": 528,
+		"prompt": "How good are you at drawing?"
+	},
+	"2022-11-01": {
+		"number": 529,
+		"prompt": "Tell us a song lyric that describes your day."
+	},
+	"2022-11-02": {
+		"number": 530,
+		"prompt": "How good are you at taking care of plants?"
+	},
+	"2022-11-03": {
+		"number": 531,
+		"prompt": "What workplace superpower (not like flying, but like zero-cost task switching or the ability to perfectly read the room) have you observed in others and wish you could acquire/learn?"
+	},
+	"2022-11-04": {
+		"number": 532,
+		"prompt": "Dogs, cats, or other? Why?"
+	},
+	"2022-11-07": {
+		"number": 533,
+		"prompt": "What is the most recent book or film you finished? How would you review it?"
+	},
+	"2022-11-08": {
+		"number": 534,
+		"prompt": "What technology devices do you use? How do you use them? e.g. gaming PC, iPad in the evening, no computers on weekends, etc."
+	},
+	"2022-11-09": {
+		"number": 535,
+		"prompt": "What’s the longest you've worked at a job?"
+	},
+	"2022-11-10": {
+		"number": 536,
+		"prompt": "Do you take walks regularly? Go take a walk. Share a picture from your walk."
+	},
+	"2022-11-11": {
+		"number": 537,
+		"prompt": "What do you think would be the most useful thing you could do with virtual reality?"
+	},
+	"2022-11-14": {
+		"number": 538,
+		"prompt": "What songs hit you with a wave of nostalgia every time you hear them?"
+	},
+	"2022-11-15": {
+		"number": 539,
+		"prompt": "What normally tries to distract you during the day and how do you manage it?"
+	},
+	"2022-11-16": {
+		"number": 540,
+		"prompt": "If you could safely eat any inedible object, what would it be?"
+	},
+	"2022-11-17": {
+		"number": 541,
+		"prompt": "If you could go somewhere for 2 weeks by yourself, where would you go and why?"
+	},
+	"2022-11-18": {
+		"number": 542,
+		"prompt": "What is something you can never seem to finish?"
+	},
+	"2022-11-21": {
+		"number": 543,
+		"prompt": "If you had a 6 month sabbatical to work on whatever you wanted, what would you do?"
+	},
+	"2022-11-22": {
+		"number": 544,
+		"prompt": "What is your favorite comfort food meal? Is there something so simple to make that it doesn't feel like cooking? A specific menu item that you have delivered? Bonus points for pictures!"
+	},
+	"2022-11-23": {
+		"number": 545,
+		"prompt": "How do you keep track of things? I mean *all the things.* How do you grab and remember the vast array of things are zipping past you every day. Todo lists? Productivity software? Aggressive inbox gymnastics?"
+	},
+	"2022-11-24": {
+		"number": 546,
+		"prompt": "Tell us about something you learned outside of work that's made you better at your job."
+	},
+	"2022-11-25": {
+		"number": 547,
+		"prompt": "What bad habit do you wish would magically disappear?"
+	},
+	"2022-11-28": {
+		"number": 548,
+		"prompt": "What was your first R-rated movie?"
+	},
+	"2022-11-29": {
+		"number": 549,
+		"prompt": "Your name is an acronym now. What does it stand for?"
+	},
+	"2022-11-30": {
+		"number": 550,
+		"prompt": "If you could have a wild animal as a pet, what would it be?"
+	},
+	"2022-12-01": {
+		"number": 551,
+		"prompt": "How do you know if you've had a good week? How do you know if you haven't had a good week?"
+	},
+	"2022-12-02": {
+		"number": 552,
+		"prompt": "What household chore do you actually enjoy?"
+	},
+	"2022-12-05": {
+		"number": 553,
+		"prompt": "Name your three desert island books."
+	},
+	"2022-12-06": {
+		"number": 554,
+		"prompt": "What is the best thing you have done, gotten done, or seen done in the last week-ish? e.g. gone skiing, released a cool feature, helped someone get a promotion, etc."
+	},
+	"2022-12-07": {
+		"number": 555,
+		"prompt": "What were your favorite television shows when you were growing up?"
+	},
+	"2022-12-08": {
+		"number": 556,
+		"prompt": "Of the places you have lived or spent significant time, which one had the most pleasing view out the front door/main window/etc for you and why?"
+	},
+	"2022-12-09": {
+		"number": 557,
+		"prompt": "What fictional world would you like to take a vacation on?"
+	},
+	"2022-12-12": {
+		"number": 558,
+		"prompt": "Do you eat food that’s past its expiration date?"
+	},
+	"2022-12-13": {
+		"number": 559,
+		"prompt": "What are your top 3 favorite books?"
+	},
+	"2022-12-14": {
+		"number": 560,
+		"prompt": "Link to a journal / newsletter / mailing list / online forum that you love. Why should we read / visit it?"
+	},
+	"2022-12-15": {
+		"number": 561,
+		"prompt": "Did you go to college? Where did you go? What did you major in?"
+	},
+	"2022-12-16": {
+		"number": 562,
+		"prompt": "Look around your desk, is it messy or clean? Are there personal trinkets laying around? What do you think your desk says about you? And ideally, what would you like for your desk to say about you?"
+	},
+	"2022-12-19": {
+		"number": 563,
+		"prompt": "What would you choose to do with today if you had no responsibilities? Is there any part of that which you can actually build into your day?"
+	},
+	"2022-12-20": {
+		"number": 564,
+		"prompt": "What is something fun you did that you'd never do again?"
+	},
+	"2022-12-21": {
+		"number": 565,
+		"prompt": "If you could have one superpower, what would it be?"
+	},
+	"2022-12-22": {
+		"number": 566,
+		"prompt": "What do you like shopping for? What do you hate shopping for?"
+	},
+	"2022-12-23": {
+		"number": 567,
+		"prompt": "What are you afraid of?"
+	},
+	"2022-12-26": {
+		"number": 568,
+		"prompt": "What’s something you’ve been meaning to try but just haven't gotten around to it?"
+	},
+	"2022-12-27": {
+		"number": 569,
+		"prompt": "What is something you are right about that is very controversial?"
+	},
+	"2022-12-28": {
+		"number": 570,
+		"prompt": "What book have you re-read more than any other?"
+	},
+	"2022-12-29": {
+		"number": 571,
+		"prompt": "What's your go-to meal that you prepare for dinner?"
+	},
+	"2022-12-30": {
+		"number": 572,
+		"prompt": "How often do you rearrange furniture at your home / home office? Did you do one recently or are you planning one soon?"
+	},
+	"2023-01-02": {
+		"number": 573,
+		"prompt": "Where do you get your news?"
+	},
+	"2023-01-03": {
+		"number": 574,
+		"prompt": "Do you think living a nomadic lifestyle, working fully remote, and traveling the world is worth the hassle? Why? Please indulge if you have done or are doing this."
+	},
+	"2023-01-04": {
+		"number": 575,
+		"prompt": "Marie Kondo talks about getting rid of stuff that no longer sparks joy, but that doesn’t always need to be possessions. What no longer sparks joy for you? What’s stopping you from letting it go?"
+	},
+	"2023-01-05": {
+		"number": 576,
+		"prompt": "What would be your ideal way to spend the weekend?"
+	},
+	"2023-01-06": {
+		"number": 577,
+		"prompt": "Do you have a quote, phrase, saying or mantra that regularly influences your thinking or approach to problems, life or work?"
+	},
+	"2023-01-09": {
+		"number": 578,
+		"prompt": "What’s your favorite piece of clothing you own/owned?"
+	},
+	"2023-01-10": {
+		"number": 579,
+		"prompt": "Bruce Wayne picked \"Batman\" as a way to take control of one of his biggest fears. If you went the same route, what would you be called?"
+	},
+	"2023-01-11": {
+		"number": 580,
+		"prompt": "What new tool / startup / idea / etc have you seen lately that was revolutionary, that made you go wow? The more obscure, the better."
+	},
+	"2023-01-12": {
+		"number": 581,
+		"prompt": "Are there plants in your office? Do you find value in plants? Alternately: how is your garden doing? Pictures welcome."
+	},
+	"2023-01-13": {
+		"number": 582,
+		"prompt": "What Is your favorite non-english phrase? Why?"
+	},
+	"2023-01-16": {
+		"number": 583,
+		"prompt": "If you owned a restaurant, what kind of food would it serve?"
+	},
+	"2023-01-17": {
+		"number": 584,
+		"prompt": "What's unique and adorable about your pet? Provide photo / video evidence."
+	},
+	"2023-01-18": {
+		"number": 585,
+		"prompt": "What's your favorite drink?"
+	},
+	"2023-01-19": {
+		"number": 586,
+		"prompt": "What do you wish you did differently in your twenties?"
+	},
+	"2023-01-20": {
+		"number": 587,
+		"prompt": "What fad or trend do you hope comes back?"
+	},
+	"2023-01-23": {
+		"number": 588,
+		"prompt": "Do you do any journaling, either in your career or your outside-the-job life? If so, what do you record, and why?"
+	},
+	"2023-01-24": {
+		"number": 589,
+		"prompt": "What movie never gets old no matter how many times you've seen it?"
+	},
+	"2023-01-25": {
+		"number": 590,
+		"prompt": "Share a picture of what you are eating for lunch."
+	},
+	"2023-01-26": {
+		"number": 591,
+		"prompt": "Find something to write with, and something to write on. Set a five minute timer. Draw something wherever you are now. Take a photo and post it here."
+	},
+	"2023-01-27": {
+		"number": 592,
+		"prompt": "Have you ever started your own business? If so, how did it go? If not, do you want to? What's stopping you?"
+	},
+	"2023-01-30": {
+		"number": 593,
+		"prompt": "Do you think that aliens exist?"
+	},
+	"2023-01-31": {
+		"number": 594,
+		"prompt": "What is one thing you're going to do differently this week versus last week?"
+	},
+	"2023-02-01": {
+		"number": 595,
+		"prompt": "The wins are fun. This one is harder. Tell us about a time you messed up at work or on a project and what you learned."
+	},
+	"2023-02-02": {
+		"number": 596,
+		"prompt": "If you suddenly became a master at woodworking, what would you make?"
+	},
+	"2023-02-03": {
+		"number": 597,
+		"prompt": "Your company has given you a paid sabbatical and tuition reimbursement for higher education for one calendar year. What do you study? Why?"
+	},
+	"2023-02-06": {
+		"number": 598,
+		"prompt": "Have you ever had a \"why didn't I start doing this sooner\" moment? What was it? What was stopping you?"
+	},
+	"2023-02-07": {
+		"number": 599,
+		"prompt": "We all customize our working environment a little. What useful tweaks have you made to your setup?"
+	},
+	"2023-02-08": {
+		"number": 600,
+		"prompt": "You've got a ton of stuff on your plate in a somewhat prioritized \"list\". So, where do you keep this info? Saved locally on your computer, saved in Trello, in a notebook? Is it even a list? Or is it a mind map, drawing, haiku, etc?"
+	},
+	"2023-02-09": {
+		"number": 601,
+		"prompt": "If you could own one building, any building, what building would it be?"
+	},
+	"2023-02-10": {
+		"number": 602,
+		"prompt": "You put a book on your boss's desk. What book is that and why?"
+	},
+	"2023-02-13": {
+		"number": 603,
+		"prompt": "Have you ever been the target of a practical joke?"
+	},
+	"2023-02-14": {
+		"number": 604,
+		"prompt": "What home improvement project would you like to attempt?"
+	},
+	"2023-02-15": {
+		"number": 605,
+		"prompt": "What’s something dumb you did as a child or teenager?"
+	},
+	"2023-02-16": {
+		"number": 606,
+		"prompt": "If magic was real, what spell would you try to learn first?"
+	},
+	"2023-02-17": {
+		"number": 607,
+		"prompt": "Is a hotdog a sandwich? Why?"
+	},
+	"2023-02-20": {
+		"number": 608,
+		"prompt": "When you become the all-powerful Imperial Ruler of the World, what's the first law that you'll implement?"
+	},
+	"2023-02-21": {
+		"number": 609,
+		"prompt": "What's holding you back?"
+	},
+	"2023-02-22": {
+		"number": 610,
+		"prompt": "What are two of your favorite snacks?"
+	},
+	"2023-02-23": {
+		"number": 611,
+		"prompt": "What is your threshold for accepting LinkedIn connections, and why?"
+	},
+	"2023-02-24": {
+		"number": 612,
+		"prompt": "What's the best thing you've done recently to make someone else's life better?"
+	},
+	"2023-02-27": {
+		"number": 613,
+		"prompt": "Do you go somewhere specific when you need to focus? If so, where? Do you have different kinds of focus that you get from different environments? e.g. thinking while running, writing while in a coffee shop, coding while in complete silence, etc"
+	},
+	"2023-02-28": {
+		"number": 614,
+		"prompt": "Did you ever sneak out of your house after curfew without your parents knowing?"
+	},
+	"2023-03-01": {
+		"number": 615,
+		"prompt": "What is something you didn't like but you are glad happened?"
+	},
+	"2023-03-02": {
+		"number": 616,
+		"prompt": "Would you ever consider living somewhere you've visited? Where would it be and how long would you live there?"
+	},
+	"2023-03-03": {
+		"number": 617,
+		"prompt": "What question do you wish people would ask you?"
+	},
+	"2023-03-06": {
+		"number": 618,
+		"prompt": "What is the most interesting / memorable thing you've ever seen out of a window?"
+	},
+	"2023-03-07": {
+		"number": 619,
+		"prompt": "If you were given one thousand acres of land that you didn't need to pay taxes on but couldn't sell, what would you do with it?"
+	},
+	"2023-03-08": {
+		"number": 620,
+		"prompt": "If you were reincarnated, what creature would you hope to be in your next life?"
+	},
+	"2023-03-09": {
+		"number": 621,
+		"prompt": "Lunchtime. What is your team’s lunch culture? Do you do lunch together as a team? Do you work through lunch?"
+	},
+	"2023-03-10": {
+		"number": 622,
+		"prompt": "What one thing do you really want but can't afford yet?"
+	},
+	"2023-03-13": {
+		"number": 623,
+		"prompt": "What’s the best way to start the day?"
+	},
+	"2023-03-14": {
+		"number": 624,
+		"prompt": "Do you have a favorite game to play? Board game, video game, sports game, or something else? Why do you like it so much?"
+	},
+	"2023-03-15": {
+		"number": 625,
+		"prompt": "What would you like to write a book about?"
+	},
+	"2023-03-16": {
+		"number": 626,
+		"prompt": "It's often hard to apply theory to everyday life. What's one principle you're trying to consume in your day-to-day?"
+	},
+	"2023-03-17": {
+		"number": 627,
+		"prompt": "What riddles do you know?"
+	},
+	"2023-03-20": {
+		"number": 628,
+		"prompt": "Have you ever been stood up for a date?"
+	},
+	"2023-03-21": {
+		"number": 629,
+		"prompt": "Ten years from now what do you think you'll regret doing too much of or too little of at this point in your life?"
+	},
+	"2023-03-22": {
+		"number": 630,
+		"prompt": "What do you think about when you hear the word “classy”?"
+	},
+	"2023-03-23": {
+		"number": 631,
+		"prompt": "What is your favorite body of water? Why?"
+	},
+	"2023-03-24": {
+		"number": 632,
+		"prompt": "What is something you think everyone should do at least once in their lives?"
+	},
+	"2023-03-27": {
+		"number": 633,
+		"prompt": "What have you done recently that scared you? How did it turn out?"
+	},
+	"2023-03-28": {
+		"number": 634,
+		"prompt": "If you had to have roughly the same work day, 5 days a week, for the next 10 years, what activities would you ideally want this work day to consist of?"
+	},
+	"2023-03-29": {
+		"number": 635,
+		"prompt": "What are some small things that make your day better?"
+	},
+	"2023-03-30": {
+		"number": 636,
+		"prompt": "What is your earliest memory?"
+	},
+	"2023-03-31": {
+		"number": 637,
+		"prompt": "What is your personality type? Feel free to describe yourself in your own words or there are many tests out there, e.g. <http://www.16personalities.com/free-personality-test.>"
+	},
+	"2023-04-03": {
+		"number": 638,
+		"prompt": "What is the next thing you intend to learn, and how do you plan to study it?"
+	},
+	"2023-04-04": {
+		"number": 639,
+		"prompt": "Did you finish your schoolwork ahead of time or right before it was due and how does that reflect on your approach to deadlines?"
+	},
+	"2023-04-05": {
+		"number": 640,
+		"prompt": "What are your best calendaring tips? Do you block certain days for certain activities? Practice defensive calendaring? Calendar down to small increments of time? Use particular calendaring tools?"
+	},
+	"2023-04-06": {
+		"number": 641,
+		"prompt": "You wake up tomorrow and find out you've won 10 million on the lottery. What do you do?"
+	},
+	"2023-04-07": {
+		"number": 642,
+		"prompt": "Do you like coffee? How do you take it? How much of it do you drink?"
+	},
+	"2023-04-10": {
+		"number": 643,
+		"prompt": "If you could say one sentence to your pet and know they would understand it, what would you say?"
+	},
+	"2023-04-11": {
+		"number": 644,
+		"prompt": "What skill have you learned recently that makes your life better?"
+	},
+	"2023-04-12": {
+		"number": 645,
+		"prompt": "What is your favorite way to spend a Sunday?"
+	},
+	"2023-04-13": {
+		"number": 646,
+		"prompt": "What do you hope never changes?"
+	},
+	"2023-04-14": {
+		"number": 647,
+		"prompt": "Do you prefer black or blue inked pens? Or another color?"
+	},
+	"2023-04-17": {
+		"number": 648,
+		"prompt": "What do you do to cool down when it's hot out?"
+	},
+	"2023-04-18": {
+		"number": 649,
+		"prompt": "Are you a hat person?"
+	},
+	"2023-04-19": {
+		"number": 650,
+		"prompt": "Have you ever snuck in somewhere you shouldn't have been?"
+	},
+	"2023-04-20": {
+		"number": 651,
+		"prompt": "Where is one place you'd never be seen?"
+	},
+	"2023-04-21": {
+		"number": 652,
+		"prompt": "What was the best present you've ever received?"
+	},
+	"2023-04-24": {
+		"number": 653,
+		"prompt": "What is the perfect food for a food fight?"
+	},
+	"2023-04-25": {
+		"number": 654,
+		"prompt": "What one thing could you do a little better every day?"
+	},
+	"2023-04-26": {
+		"number": 655,
+		"prompt": "Show a photo, video or street view of your hometown and tell us what makes it unique to you."
+	},
+	"2023-04-27": {
+		"number": 656,
+		"prompt": "Suppose you knew that you were going to die instantly (but painlessly) in exactly 7 days. What would you spend your last week doing?"
+	},
+	"2023-04-28": {
+		"number": 657,
+		"prompt": "On a scale of 1–10, how good are you at Sudoku?"
+	},
+	"2023-05-01": {
+		"number": 658,
+		"prompt": "Would you travel to space if possible?"
+	},
+	"2023-05-02": {
+		"number": 659,
+		"prompt": "What's a common topic at your dinner table?"
+	},
+	"2023-05-03": {
+		"number": 660,
+		"prompt": "What are your three favorite internet sites?"
+	},
+	"2023-05-04": {
+		"number": 661,
+		"prompt": "Has your car ever ran out of gas? What happened?"
+	},
+	"2023-05-05": {
+		"number": 662,
+		"prompt": "What's the longest you've ever waited in line for something? What was it?"
+	},
+	"2023-05-08": {
+		"number": 663,
+		"prompt": "Did you ever skip school? What did you do instead?"
+	},
+	"2023-05-09": {
+		"number": 664,
+		"prompt": "Do you prefer to live in the heart of the city or out in the peaceful countryside?"
+	},
+	"2023-05-10": {
+		"number": 665,
+		"prompt": "Have you ever come to a crossroads in your life? What were the two paths?"
+	},
+	"2023-05-11": {
+		"number": 666,
+		"prompt": "How many backup plans do you make for your original plan?"
+	},
+	"2023-05-12": {
+		"number": 667,
+		"prompt": "Do you have a favorite pair of blue jeans? Describe them."
+	},
+	"2023-05-15": {
+		"number": 668,
+		"prompt": "What was the brand of your first cell phone?"
+	},
+	"2023-05-16": {
+		"number": 669,
+		"prompt": "If you were out at dinner with no cash, what would you do or say to get the bill paid?"
+	},
+	"2023-05-17": {
+		"number": 670,
+		"prompt": "What’s something that you did as a child or teenager that you miss doing?"
+	},
+	"2023-05-18": {
+		"number": 671,
+		"prompt": "What’s one of the best days you’ve had in your entire life? Describe what happened that day."
+	},
+	"2023-05-19": {
+		"number": 672,
+		"prompt": "Tell us about a trip / event / weekend where something went wrong."
+	},
+	"2023-05-22": {
+		"number": 673,
+		"prompt": "For watching or playing, do you have any special \"game day\" rituals?"
+	},
+	"2023-05-23": {
+		"number": 674,
+		"prompt": "Have your parents told you something as an adult that they kept from you as a child?"
+	},
+	"2023-05-24": {
+		"number": 675,
+		"prompt": "Do you like ice in your drinks?"
+	},
+	"2023-05-25": {
+		"number": 676,
+		"prompt": "Tell us about something that you are still embarrassed about today."
+	},
+	"2023-05-26": {
+		"number": 677,
+		"prompt": "What are you hypocritical about?"
+	},
+	"2023-05-29": {
+		"number": 678,
+		"prompt": "What distracts you the most every day?"
+	},
+	"2023-05-30": {
+		"number": 679,
+		"prompt": "What is the most important thing that you know you really should do but which you have trouble getting yourself to do?"
+	},
+	"2023-05-31": {
+		"number": 680,
+		"prompt": "Is there a food you loved as a kid but hate as an adult?"
+	},
+	"2023-06-01": {
+		"number": 681,
+		"prompt": "If you knew for a fact that you were going to die exactly 10 years from now, how would you change your current behavior?"
+	},
+	"2023-06-02": {
+		"number": 682,
+		"prompt": "Share a childhood or teenage photo of yourself and tell a story."
 	}
 }
