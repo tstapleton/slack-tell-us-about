@@ -21,12 +21,3 @@ jobs:
         run: npm run lint
       - name: Run test
         run: npm test
-  deploy:
-    needs: [build]
-    uses: tstapleton/slack-tell-us-about/.github/workflows/heroku.yml@main
-    with:
-      branch: ${{ github.head_ref }}
-    secrets:
-      HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-      HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME_STAGING }}
-      HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}
