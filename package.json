@@ -30,7 +30,7 @@
 		"@types/koa__router": "^8.0.11",
 		"@types/koa-compose": "^3.2.5",
 		"axios": "^0.26.0",
-		"dotenv": "^10.0.0",
+		"dotenv": "^16.0.0",
 		"koa": "^2.13.4",
 		"koa-compose": "^4.1.0",
 		"ts-node": "^10.5.0",
