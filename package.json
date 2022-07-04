@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/tstapleton/slack-tell-us-about#readme",
 	"dependencies": {
-		"@koa/router": "^10.1.1",
+		"@koa/router": "^11.0.1",
 		"@slack/bolt": "^3.11.0",
 		"@slack/web-api": "^6.7.0",
 		"@tsconfig/node16": "1.0.2",
